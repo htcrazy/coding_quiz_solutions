@@ -13,7 +13,10 @@
   - String Formatting | [Question](https://www.hackerrank.com/challenges/python-string-formatting/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/python_string_formatting)
   - Alphabet Rangoli | [Question](https://www.hackerrank.com/challenges/alphabet-rangoli/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/alphabet_rangoli)
   - Capitalize! | [Question](https://www.hackerrank.com/challenges/capitalize/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/capitalize)
+  - Incorrect Regex | [Question](https://www.hackerrank.com/challenges/incorrect-regex/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/incorrect-regex)
+  - List Comprehensions | [Question](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/list-comprehensions)
 
 - Python 3 | Difficulty : Medium
   - Write a function | [Question](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/write_a_function)
   - The Minion Game | [Question](https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/the_minion_game)
+  - Merge the Tools! | [Question](https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/tree/main/hackerrank_python_solutions)
