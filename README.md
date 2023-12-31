@@ -1,4 +1,4 @@
-# hackerrank_python
+# Hackerrank Solutions
 
-- Poop
-pee
+- Python Algorithms
+  - Poop
