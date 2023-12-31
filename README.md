@@ -1,7 +1,7 @@
 # Hackerrank Solutions
 
 - Python 3 Algorithms
-  - [Say "Hello World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/py_hello_world)
+  - <a href="https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true" style="color: red">Say "Hello World!" With Python</a> | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/py_hello_world)
   - [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/py_if_else)
   - [Print Function](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/python_print)
   - [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/text_alignment)
