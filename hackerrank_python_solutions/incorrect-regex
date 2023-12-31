@@ -1,0 +1,9 @@
+# At the time of doing this, it only works on Pypy3 and not Python 3
+import re
+
+for i in range(int(input())):
+    try:
+        re.compile(input())
+        print("True")
+    except:
+        print("False")
