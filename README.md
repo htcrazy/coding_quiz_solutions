@@ -1,17 +1,38 @@
-# Hackerrank Solutions
 
-- Python 3 | Difficulty : Easy
-  - Say "Hello World!" With Python | [Question](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/py_hello_world)
-  - Arithmetic Operators | [Question](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/python-arithmetic-operators)
-  - Python If-Else | [Question](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/py_if_else)
-  - Print Function | [Question](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/python_print)
-  - Text Alignment | [Question](https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/text_alignment)
-  - Text Wrap | [Question](https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/text_wrap)
-  - Designer Door Mat | [Question](https://www.hackerrank.com/challenges/designer-door-mat/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/designer_door_mat)
-  - String Formatting | [Question](https://www.hackerrank.com/challenges/python-string-formatting/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/python_string_formatting)
-  - Alphabet Rangoli | [Question](https://www.hackerrank.com/challenges/alphabet-rangoli/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/alphabet_rangoli)
-  - Capitalize! | [Question](https://www.hackerrank.com/challenges/capitalize/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/capitalize)
+<%*
+// Check the folder specified below and build a list of all markdown files
+// all files in subfolders will be included
 
-- Python 3 | Difficulty : Medium
-  - Write a function | [Question](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/write_a_function)
-  - The Minion Game | [Question](https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/the_minion_game)
+// = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+// MacOS example
+folderChoicePath = "Templates/"
+// If you are on Windows, try: "resources\health\"
+// Note: "/" works fine under Windows 10
+// = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+if (folderChoicePath != null) {
+	new Notice(`Folder: ${folderChoicePath}`, 5000);
+	let filesInFolder = new Array();
+	let headings = new Array();
+	console.log("folderChoicePath: " + `${folderChoicePath}`)
+	filesInFolder =  app.vault.getMarkdownFiles().filter(file => file.path.includes(folderChoicePath)).map(tFile=>tFile.basename)
+	const filesList = new Array();
+	filesList.push('\n| Template | Description | Detailed Notes |\n| -------- | ----------- | -------------- |')
+	filesInFolder.forEach((file) => {
+		filesList.push('\n|[[' + file + ']] | - | [[#' + file + ']] |')
+		headings.push('\n## ' + file + '\n')
+	});
+	const folderChoice = folderChoicePath.split("/").slice(-2).join("")
+	const fileName = folderChoice + " MOC"
+	//files sorted case insensitive
+	const heading = "## " + folderChoice.charAt(0).toUpperCase() + folderChoice.slice(1)+ " MOC"
+	let content = heading + "\n" + filesList.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase())).join('')
+	content = content + "\n" + headings.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase())).join('')
+
+	// insert the list of files in the active file
+	tR+=content
+	new Notice(`Created new MOC`, 5000);	
+} else {
+	new Notice(`No folder selected`, 5000);
+}
+_%>
