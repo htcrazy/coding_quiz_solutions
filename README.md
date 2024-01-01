@@ -1,6 +1,6 @@
 # Hackerrank Solutions
 <details>
-  <summary>Python 3 | Difficulty : Easy</summary> <br>
+  <summary>Python 3 | Difficulty : Easy</summary> 
 
   - Say "Hello World!" With Python | [Question](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py_hello_world)
   - Arithmetic Operators | [Question](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-arithmetic-operators)
@@ -24,7 +24,7 @@
 
 </details>
 <details>
-  <summary>Python 3 | Difficulty : Medium</summary> <br>
+  <summary>Python 3 | Difficulty : Medium</summary> 
 
   - Write a function | [Question](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/write_a_function)
   - The Minion Game | [Question](https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/the_minion_game)
