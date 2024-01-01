@@ -1,7 +1,9 @@
-# Hackerrank Solutions
-
 <details>
   <summary>Python 3 | Difficulty : Easy</summary> 
+  
+# Hackerrank Solutions
+
+
   
   - Say "Hello World!" With Python | [Question](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py_hello_world)
   - Arithmetic Operators | [Question](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-arithmetic-operators)
@@ -23,9 +25,7 @@
   - Class 2 - Find the Torsional Angle | [Question](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/class-2-find-the-torsional-angle)
   - Lists | [Question](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-lists)
 
-</details>
-<details>
-  <summary>Python 3 | Difficulty : Medium</summary> 
+
   
   - Write a function | [Question](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/write_a_function)
   - The Minion Game | [Question](https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/the_minion_game)
