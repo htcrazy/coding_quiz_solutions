@@ -31,8 +31,6 @@
 <details>
   <summary>Click me</summary> 
 
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
+  - Foo
+  - Bar
 </details>
