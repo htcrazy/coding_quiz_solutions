@@ -21,4 +21,4 @@
 - Python 3 | Difficulty : Medium
   - Write a function | [Question](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/write_a_function)
   - The Minion Game | [Question](https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/the_minion_game)
-  - Merge the Tools! | [Question](https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/tree/main/hackerrank_python_solutions)
+  - Merge the Tools! | [Question](https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true) | [Solution]([https://github.com/htcrazy/hackerrank_solutions/tree/main/hackerrank_python_solutions](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/merge-the-tools)https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/merge-the-tools)
