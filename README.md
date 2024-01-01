@@ -19,6 +19,7 @@
   - Nested Lists | [Question](https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/nested-list)
   - Finding the percentage | [Question](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/finding-the-percentage)
   - Class 2 - Find the Torsional Angle | [Question](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/class-2-find-the-torsional-angle)
+  - Lists | [Question](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-lists)
 
 - Python 3 | Difficulty : Medium
   - Write a function | [Question](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/write_a_function)
