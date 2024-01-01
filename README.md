@@ -24,6 +24,8 @@
   - sWAP cASE | [Question](https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/swap-case)
   - String Split and Join | [Question](https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-string-split-and-join)
   - What's Your Name? | [Question](https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/whats-your-name)
+  - Mutations | [Question](https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-mutations)
+  - Find a string | [Question](https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/find-a-string)
 
 </details>
 <details>
