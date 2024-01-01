@@ -1,0 +1,8 @@
+N = int(input())
+
+for i in range(N):
+    test = input()
+    if len(test) == 10 and test.isdigit() and test[0] in "789":
+        print("YES")
+    else:
+        print("NO")
