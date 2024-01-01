@@ -1,0 +1,22 @@
+if __name__ == '__main__':
+    N = int(input())
+    
+    ans = []
+    for i in range(N):
+        command = input()
+        if command.startswith("insert"):
+            splitted = command.split()
+            ans.insert(int(splitted[1]), int(splitted[2]))
+        if command == "print":
+            print(ans)
+        if command.startswith("remove"):
+            splitted = command.split()
+            ans.remove(int(command.split()[1]))
+        if command.startswith("append"):
+            ans.append(int(command.split()[1]))
+        if command == "sort":
+            ans.sort()
+        if command == "pop":
+            ans.pop(-1)
+        if command == "reverse":
+            ans = ans[::-1]
