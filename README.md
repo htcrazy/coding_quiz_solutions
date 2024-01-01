@@ -1,5 +1,5 @@
 <details>
-  <summary># Python 3 | Difficulty : Easy</summary> 
+  <summary> # Python 3 | Difficulty : Easy</summary> 
   
 # Hackerrank Solutions
 
