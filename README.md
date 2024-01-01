@@ -16,7 +16,7 @@
   - Incorrect Regex | [Question](https://www.hackerrank.com/challenges/incorrect-regex/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/incorrect-regex)
   - List Comprehensions | [Question](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/list-comprehensions)
   - Find the Runner-Up Score! | [Question](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/find-second-maximum-number-in-a-list)
-  - Nested Lists | [Question]() | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/nested-list)
+  - Nested Lists | [Question](https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/nested-list)
 
 - Python 3 | Difficulty : Medium
   - Write a function | [Question](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/write_a_function)
