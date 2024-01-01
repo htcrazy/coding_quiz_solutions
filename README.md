@@ -1,5 +1,5 @@
 <details>
-  [comment]: <> <summary>Hackerrank Solutions</summary> 
+  // <summary>Hackerrank Solutions</summary> 
 
 - Python 3 | Difficulty : Easy
   - Say "Hello World!" With Python | [Question](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py_hello_world)
