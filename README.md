@@ -30,8 +30,8 @@
 
 <details>
   <summary>Click me</summary>
-  - Foo
-  - Bar
-      * Baz
-      * Qux
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
 </details>
