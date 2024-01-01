@@ -27,8 +27,7 @@
   - Merge the Tools! | [Question](https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/merge-the-tools)
   - Classes: Dealing with Complex Numbers | [Question](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/class-1-dealing-with-complex-numbers)
 
-<summary>Click me</summary>
-  
+
 <details>
   <summary>Click me</summary>
   
