@@ -1,0 +1,18 @@
+if __name__ == '__main__':
+    s = input()
+    
+    ans = [False, False, False, False, False]
+    for char in s:
+        if char.isalpha():
+            ans[0] = True
+            ans[1] = True
+        if char.isdigit():
+            ans[0] = True
+            ans[2] = True
+        if char.islower():
+            ans[3] = True
+        if char.isupper():
+            ans[4] = True
+            
+    for thing in ans:
+        print(thing)
