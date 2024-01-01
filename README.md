@@ -34,6 +34,4 @@
   2. Bar
      * Baz
      * Qux
-
-
 </details>
