@@ -30,6 +30,7 @@
 
 <details>
   <summary>Click me</summary>
+  #Dicks
   1. Foo
   2. Bar
      * Baz
