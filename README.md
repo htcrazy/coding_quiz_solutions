@@ -15,6 +15,7 @@
   - Capitalize! | [Question](https://www.hackerrank.com/challenges/capitalize/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/capitalize)
   - Incorrect Regex | [Question](https://www.hackerrank.com/challenges/incorrect-regex/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/incorrect-regex)
   - List Comprehensions | [Question](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/list-comprehensions)
+  - Find the Runner-Up Score! | [Question](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/find-second-maximum-number-in-a-list)
 
 - Python 3 | Difficulty : Medium
   - Write a function | [Question](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/write_a_function)
