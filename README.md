@@ -26,6 +26,7 @@
   - What's Your Name? | [Question](https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/whats-your-name)
   - Mutations | [Question](https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-mutations)
   - Find a string | [Question](https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/find-a-string)
+  - String Validators | [Question](https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/string-validators)
 
 </details>
 <details>
