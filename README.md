@@ -26,3 +26,19 @@
   - The Minion Game | [Question](https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/the_minion_game)
   - Merge the Tools! | [Question](https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/merge-the-tools)
   - Classes: Dealing with Complex Numbers | [Question](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/class-1-dealing-with-complex-numbers)
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
