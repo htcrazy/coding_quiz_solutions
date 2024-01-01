@@ -21,6 +21,9 @@
   - Finding the percentage | [Question](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/finding-the-percentage)
   - Class 2 - Find the Torsional Angle | [Question](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/class-2-find-the-torsional-angle)
   - Lists | [Question](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-lists)
+  - sWAP cASE | [Question](https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/swap-case)
+  - String Split and Join | [Question](https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-string-split-and-join)
+  - What's Your Name? | [Question](https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/whats-your-name)
 
 </details>
 <details>
