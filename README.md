@@ -24,9 +24,12 @@
   - Lists | [Question](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-lists)
 
 </details>
-
-- Python 3 | Difficulty : Medium
+<details>
+  <summary>Python 3 | Difficulty : Medium</summary> 
+  
   - Write a function | [Question](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/write_a_function)
   - The Minion Game | [Question](https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/the_minion_game)
   - Merge the Tools! | [Question](https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/merge-the-tools)
   - Classes: Dealing with Complex Numbers | [Question](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/class-1-dealing-with-complex-numbers)
+
+</details>
