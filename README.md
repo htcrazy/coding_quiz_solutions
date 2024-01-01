@@ -1,8 +1,8 @@
 # Hackerrank Solutions
 
 - Python 3 | Difficulty : Easy
-  - Say "Hello World!" With Python | [Question](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/py_hello_world)
-  - Arithmetic Operators | [Question](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/python-arithmetic-operators)
+  - Say "Hello World!" With Python | [Question](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py_hello_world)
+  - Arithmetic Operators | [Question](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-arithmetic-operators)
   - Python: Division | [Question](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-division)
   - Loops | [Question](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-loops)
   - Python If-Else | [Question](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py_if_else)
