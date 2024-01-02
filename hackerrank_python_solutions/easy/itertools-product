@@ -1,5 +1,4 @@
-A = input().split()
-B = input().split()
-
-for thing in [(int(a), int(b)) for a in A for b in B]:
-    print(f"{thing}", end = " ")
+from itertools import product
+A = map(int, input().split())
+B = map(int, input().split())
+print(" ".join(str(x) for x in list(product(A, B))))
