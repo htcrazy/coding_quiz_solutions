@@ -30,6 +30,10 @@
   - Validating Phone Numbers | [Question](https://www.hackerrank.com/challenges/validating-the-phone-number/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/validating-the-phone-number)
   - Validating and Parsing Email Addresses | [Question](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/validating-named-email-addresses)
   - Tuples | [Question](https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-tuples)
+  - itertools.product() | [Question](https://www.hackerrank.com/challenges/itertools-product/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/itertools-product)
+  - itertools.permutations() | [Question](https://www.hackerrank.com/challenges/itertools-permutations/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/itertools-permutations)
+  - itertools.combinations() | [Question](https://www.hackerrank.com/challenges/itertools-combinations/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/itertools-combinations)
+  - itertools.combinations_with_replacement() | [Question](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/itertools-combinations-with-replacement)
 
 </details>
 <details>
@@ -39,5 +43,6 @@
   - The Minion Game | [Question](https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/the_minion_game)
   - Merge the Tools! | [Question](https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/merge-the-tools)
   - Classes: Dealing with Complex Numbers | [Question](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/class-1-dealing-with-complex-numbers)
+  - Compress the String! | [Question](https://www.hackerrank.com/challenges/compress-the-string/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/compress-the-string)
 
 </details>
