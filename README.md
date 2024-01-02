@@ -1,4 +1,4 @@
-# Hackerrank Solutions <span style="font-size:smaller;"> Last Update: 1/1/24 </span>
+# Hackerrank Solutions <span style="font-size:11;"> Last Update: 1/1/24 </span>
 <details>
   <summary>Python 3 | Difficulty : Easy</summary> 
 
