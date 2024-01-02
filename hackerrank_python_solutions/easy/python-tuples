@@ -1,4 +1,4 @@
-# Only works in Pypy3 at the time of doing this problem
+# bugged on Python 3 but works on Pypy3
 n = int(input())
 t = tuple(int(i) for i in input().split())
 
