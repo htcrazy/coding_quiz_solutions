@@ -1,0 +1,14 @@
+from collections import Counter
+
+num_shoes = int(input())
+wut_shoes = Counter(input().split())
+num_cust = int(input())
+
+money_made = 0
+for i in range(num_cust):
+    size, price = input().split()
+    if size in wut_shoes and wut_shoes[size] > 0:
+        wut_shoes[size] -= 1
+        money_made += int(price)
+
+print(money_made)
