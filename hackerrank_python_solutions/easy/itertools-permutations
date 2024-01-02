@@ -1,0 +1,5 @@
+from itertools import permutations
+A = input().split()
+
+for thing in permutations(sorted(A[0]), int(A[1])):
+    print("".join(thing))
