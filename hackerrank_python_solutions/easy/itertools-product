@@ -1,0 +1,5 @@
+A = input().split()
+B = input().split()
+
+for thing in [(int(a), int(b)) for a in A for b in B]:
+    print(f"{thing}", end = " ")
