@@ -1,0 +1,8 @@
+from itertools import combinations
+A = input().split()
+
+for i in range(int(A[1])):
+    puddle = combinations(sorted(A[0]), i+1)
+
+    for thing in puddle:
+        print("".join(thing))
