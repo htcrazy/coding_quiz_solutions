@@ -1,1 +1,5 @@
+# Only works in Pypy3 at the time of doing this problem
+n = int(input())
+t = tuple(int(i) for i in input().split())
 
+print(hash(t))
