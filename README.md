@@ -34,6 +34,7 @@
   - itertools.permutations() | [Question](https://www.hackerrank.com/challenges/itertools-permutations/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/itertools-permutations)
   - itertools.combinations() | [Question](https://www.hackerrank.com/challenges/itertools-combinations/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/itertools-combinations)
   - itertools.combinations_with_replacement() | [Question](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/itertools-combinations-with-replacement)
+  - collections.counter() | [Question](https://www.hackerrank.com/challenges/collections-counter/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/collections-counter)
 
 </details>
 <details>
