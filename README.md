@@ -29,6 +29,7 @@
   - String Validators | [Question](https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/string-validators)
   - Validating Phone Numbers | [Question](https://www.hackerrank.com/challenges/validating-the-phone-number/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/validating-the-phone-number)
   - Validating and Parsing Email Addresses | [Question](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/validating-named-email-addresses)
+  - Tuples | [Question](https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-tuples)
 
 </details>
 <details>
