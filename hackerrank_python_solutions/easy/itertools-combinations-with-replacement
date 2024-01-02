@@ -1,0 +1,6 @@
+from itertools import combinations_with_replacement
+A = input().split()
+puddle = combinations_with_replacement(sorted(A[0]), int(A[1]))
+
+for thing in puddle:
+    print("".join(thing))
