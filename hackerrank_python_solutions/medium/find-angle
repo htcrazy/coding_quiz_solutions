@@ -1,1 +1,11 @@
+from math import sqrt, asin, atan, cos, sin, degrees
 
+ab = int(input())
+bc = int(input())
+mc =  sqrt(ab**2 + bc**2) / 2
+ang_c = atan(ab/bc)
+bm = sqrt(bc**2 + mc**2 - 2*bc*mc*cos(ang_c))
+ang_mbc = asin(sin(ang_c) / bm * mc)
+ang_mbc_deg = int(round(degrees(ang_mbc), 0))
+
+print(f"{ang_mbc_deg}" + u'\N{DEGREE SIGN}')
