@@ -1,0 +1,6 @@
+import cmath
+
+test = complex(input())
+
+print(abs(test))
+print(cmath.phase(test))
