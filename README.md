@@ -51,6 +51,7 @@
   - Compress the String! | [Question](https://www.hackerrank.com/challenges/compress-the-string/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/compress-the-string)
   - Find Angle MBC | [Question](https://www.hackerrank.com/challenges/find-angle/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/find-angle)
   - Triangle Quest | [Question](https://www.hackerrank.com/challenges/python-quest-1/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/python-quest-1)
+  - Triangle Quest 2 | [Question](https://www.hackerrank.com/challenges/triangle-quest-2/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/triangle-quest-2)
 
 
 </details>
