@@ -1,0 +1,4 @@
+thing = set()
+for i in range(int(input())):
+    thing.add(input())
+print(len(thing))
