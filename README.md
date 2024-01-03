@@ -3,6 +3,8 @@
   <summary>Python 3 | Difficulty : Easy</summary> 
 
   - Say "Hello World!" With Python | [Question](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py_hello_world)
+  - Introduction to Sets | [Question](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py-intro-to-sets)
+  - Symmetric Difference | [Question](https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/symmetric-difference)
   - Arithmetic Operators | [Question](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-arithmetic-operators)
   - Python: Division | [Question](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-division)
   - Loops | [Question](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-loops)
