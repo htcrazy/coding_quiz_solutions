@@ -36,6 +36,9 @@
   - itertools.combinations_with_replacement() | [Question](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/itertools-combinations-with-replacement)
   - collections.counter() | [Question](https://www.hackerrank.com/challenges/collections-counter/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/collections-counter)
   - Polar Coordinates | [Question](https://www.hackerrank.com/challenges/polar-coordinates/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/polar-coordinates)
+  - Mod Divmod | [Question](https://www.hackerrank.com/challenges/python-mod-divmod/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-mod-divmod)
+  - Power - Mod Power | [Question](https://www.hackerrank.com/challenges/python-power-mod-power/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-power-mod-power)
+  - Integers Come In All Sizes | [Question](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-integers-come-in-all-sizes)
 
 </details>
 <details>
