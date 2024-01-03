@@ -1,0 +1,17 @@
+n, a = int(input()), set(map(int, input().split()))
+N= int(input())
+
+for k in range(N):
+    comm1 = input()
+    comm2 = set(map(int, input().split()))
+        
+    if comm1.startswith("intersection"):
+        a.intersection_update(comm2)
+    elif comm1.startswith("update"):
+        a.update(comm2)
+    elif comm1.startswith("diff"):
+        a.difference_update(comm2)
+    elif comm1.startswith("symmetric"):
+        a.symmetric_difference_update(comm2)
+
+print(sum(a))
