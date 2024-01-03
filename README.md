@@ -13,7 +13,6 @@
   - Set.union() | [Question](https://www.hackerrank.com/challenges/py-set-union/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py-set-union)
   - Set.intersection() | [Question](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py-set-intersection)
   - Set.difference() | [Question](https://www.hackerrank.com/challenges/py-set-difference-operation/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py-set-difference)
-  - 
   - Arithmetic Operators | [Question](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-arithmetic-operators)
   - Python: Division | [Question](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-division)
   - Loops | [Question](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-loops)
