@@ -1,0 +1,4 @@
+a, x = int(input()), set(input().split())
+b, y = int(input()), set(input().split())
+
+print(len(x.symmetric_difference(y)))
