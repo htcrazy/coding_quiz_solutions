@@ -1,0 +1,4 @@
+n, thing1 = int(input()), set(input().split())
+b, thing2 = int(input()), set(input().split())
+
+print(len(thing1.intersection(thing2)))
