@@ -1,7 +1,6 @@
 from math import sqrt, asin, atan, cos, sin, degrees
 
-ab = int(input())
-bc = int(input())
+ab, bc = int(input()), int(input())
 mc =  sqrt(ab**2 + bc**2) / 2
 ang_c = atan(ab/bc)
 bm = sqrt(bc**2 + mc**2 - 2*bc*mc*cos(ang_c))
