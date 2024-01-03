@@ -1,1 +1,13 @@
+K = int(input())
+thing = input().split()
+memo = {}
 
+for poo in thing:
+    if poo in memo:
+        memo[poo] +=1
+    else:
+        memo[poo] = 1
+        
+for key in memo:
+    if memo[key] == 1:
+        print(key)
