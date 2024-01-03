@@ -1,0 +1,4 @@
+n, x = int(input()), input().split()
+b, y = int(input()), input().split()
+
+print(len(set(x+y)))
