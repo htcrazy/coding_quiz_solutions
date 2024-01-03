@@ -1,0 +1,4 @@
+n, x = int(input()), set(input().split())
+m, y = int(input()), set(input().split())
+
+print(len(x.difference(y)))
