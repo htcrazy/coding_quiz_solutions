@@ -1,0 +1,7 @@
+n = int(input())
+
+for i in range(n):
+    a, x = input(), set(sorted(input().split()))
+    b, y = input(), set(sorted(input().split()))
+    
+    print(x.issubset(y))
