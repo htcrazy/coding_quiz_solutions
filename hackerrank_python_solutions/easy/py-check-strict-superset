@@ -1,0 +1,11 @@
+A = set(sorted(input().split()))
+n = int(input())
+
+ans = True
+for i in range(n):
+    check = set(sorted(input().split()))
+    
+    if not (check.issubset(A) and len(check) < len(A)):
+        ans = False
+        
+print(ans)
