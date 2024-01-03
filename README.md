@@ -13,6 +13,8 @@
   - Set.union() | [Question](https://www.hackerrank.com/challenges/py-set-union/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py-set-union)
   - Set.intersection() | [Question](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py-set-intersection)
   - Set.difference() | [Question](https://www.hackerrank.com/challenges/py-set-difference-operation/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py-set-difference)
+  - Check Subset | [Question](https://www.hackerrank.com/challenges/py-check-subset/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py-check-subset)
+  - Check Strict Superset | [Question](https://www.hackerrank.com/challenges/py-check-strict-superset/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py-check-strict-superset)
   - Arithmetic Operators | [Question](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-arithmetic-operators)
   - Python: Division | [Question](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-division)
   - Loops | [Question](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-loops)
@@ -62,6 +64,7 @@
   - Find Angle MBC | [Question](https://www.hackerrank.com/challenges/find-angle/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/find-angle)
   - Triangle Quest | [Question](https://www.hackerrank.com/challenges/python-quest-1/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/python-quest-1)
   - Triangle Quest 2 | [Question](https://www.hackerrank.com/challenges/triangle-quest-2/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/triangle-quest-2)
+  - No Idea! | [Question](https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/no-idea)
 
 
 </details>
