@@ -1,1 +1,13 @@
+nm = input()
+base = input().split()
+A = set(input().split())
+B = set(input().split())
+happiness = 0
 
+for key in base:
+    if key in A:
+        happiness += 1
+    if key in B:
+        happiness -= 1
+
+print(happiness)
