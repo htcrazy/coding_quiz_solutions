@@ -4,9 +4,4 @@ num_students = int(input())
 col_names = ",".join(input().split())
 Grades = namedtuple("Grades", col_names)
 
-total = 0
-for i in range(num_students):
-    a, b, c, d = input().split()
-    total += int(Grades(a, b, c, d).MARKS)
-
-print(total / num_students)
+print(sum([int(Grades(*input().split()).MARKS) for _ in range(num_students)]) / num_students)
