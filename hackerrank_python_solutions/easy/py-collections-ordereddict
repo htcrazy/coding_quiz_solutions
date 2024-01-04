@@ -1,1 +1,13 @@
+N = int(input())
 
+dick = {}
+for i in range(N):
+    thing = input().split()
+    thing_nem = " ".join(thing[:-1])
+    if thing_nem in dick:
+        dick[thing_nem] += int(thing[-1])
+    else:
+        dick[thing_nem] = int(thing[-1])
+        
+for key, num in dick.items():
+    print(f"{key} {num}")
