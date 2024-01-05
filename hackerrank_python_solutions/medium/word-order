@@ -1,0 +1,12 @@
+n = int(input())
+dick = {}
+
+for i in range(n):
+    werd = input()
+    if werd in dick:
+        dick[werd] += 1
+    else:
+        dick[werd] = 1
+        
+print(len(dick))
+print(" ".join([str(dick[thing]) for thing in dick]))
