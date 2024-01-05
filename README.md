@@ -10,6 +10,7 @@
   - DefaultDict Tutorial | [Question](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/defaultdict-tutorial)
   - Collections.namedtuple() | [Question](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py-collections-namedtuple)
   - Collections.OrderedDict() | [Question](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py-collections-ordereddict)
+  - Collections.deque() | [Question](https://www.hackerrank.com/challenges/py-collections-deque/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py-collections-deque)
   - The Captain's Room | [Question](https://www.hackerrank.com/challenges/py-the-captains-room/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py-the-captains-room)
   - Set.add() | [Question](https://www.hackerrank.com/challenges/py-set-add/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py-set-add)
   - Set.discard(), .remove(), .pop() | [Question](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py-set-discard-remove-pop)
@@ -68,6 +69,8 @@
   - Triangle Quest | [Question](https://www.hackerrank.com/challenges/python-quest-1/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/python-quest-1)
   - Triangle Quest 2 | [Question](https://www.hackerrank.com/challenges/triangle-quest-2/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/triangle-quest-2)
   - No Idea! | [Question](https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/no-idea)
+  - Word Order | [Question](https://www.hackerrank.com/challenges/word-order/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/word-order)
+  - Company Logo | [Question](https://www.hackerrank.com/challenges/most-commons/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/most-commons)
 
 
 </details>
