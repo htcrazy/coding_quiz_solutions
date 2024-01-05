@@ -1,0 +1,16 @@
+from collections import deque
+dick = deque()
+
+N = int(input())
+
+for i in range(N):
+    cmd = input()
+    if cmd.startswith("popleft"):
+        dick.popleft()
+    elif cmd.startswith("pop"):
+        dick.pop()
+    elif cmd.startswith("appendleft"):
+        dick.appendleft(cmd.split()[-1])
+    else:
+        dick.append(cmd.split()[-1])
+print(" ".join(dick))
