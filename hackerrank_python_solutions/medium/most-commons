@@ -1,1 +1,13 @@
-
+if __name__ == '__main__':
+    memo = {}
+    #s = input()
+    s = "ababbccde"
+    for char in s:
+        if char in memo:
+            memo[char] += 1
+        else:
+            memo[char] = 1
+    ans = sorted(memo.items(), key = lambda x: (-x[1], x[0]))
+    
+    for i in range(3):
+        print(f"{ans[i][0]} {ans[i][1]}")
