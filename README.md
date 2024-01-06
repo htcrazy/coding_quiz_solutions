@@ -59,6 +59,19 @@
   - Zeros and Ones | [Question](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/np-zeros-and-ones)
   - Eye and Identity | [Question](https://www.hackerrank.com/challenges/np-eye-and-identity/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/np-eye-and-identity)
   - Array Mathematics | [Question](https://www.hackerrank.com/challenges/np-array-mathematics/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/np-array-mathematics)
+  - Floor, Ceil and Rint | [Question](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/floor-ceil-and-rint)
+  - Sum and Prod | [Question](https://www.hackerrank.com/challenges/np-sum-and-prod/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/np-sum-and-prod)
+  - Min and Max | [Question](https://www.hackerrank.com/challenges/np-min-and-max/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/np-min-and-max)
+  - Mean, Var, and Std | [Question](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/np-mean-var-and-std)
+  - Dot and Cross | [Question](https://www.hackerrank.com/challenges/np-dot-and-cross/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/np-dot-and-cross)
+  - Inner and Outer | [Question](https://www.hackerrank.com/challenges/np-inner-and-outer/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/np-inner-and-outer)
+  - Polynomials | [Question](https://www.hackerrank.com/challenges/np-polynomials/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/np-polynomials)
+  - Linear Algebra | [Question](https://www.hackerrank.com/challenges/np-linear-algebra/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/np-linear-algebra)
+  - Shape and Reshape | [Question](https://www.hackerrank.com/challenges/np-shape-reshape/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/np-shape-reshape)
+  - Arrays | [Question](https://www.hackerrank.com/challenges/np-arrays/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/np-arrays)
+  - Transpose and Flatten | [Question](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/np-transpose-and-flatten)
+  - Map and Lambda Function | [Question](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/map-and-lambda-expression)
+  - Reduce Function | [Question](https://www.hackerrank.com/challenges/reduce-function/problem?isFullScreen=true) | [Solution]()
 
 </details>
 <details>
@@ -76,6 +89,8 @@
   - Word Order | [Question](https://www.hackerrank.com/challenges/word-order/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/word-order)
   - Company Logo | [Question](https://www.hackerrank.com/challenges/most-commons/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/most-commons)
   - Piling Up! | [Question](https://www.hackerrank.com/challenges/piling-up/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/piling-up)
+  - Reduce Function | [Question](https://www.hackerrank.com/challenges/reduce-function/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/reduce-function)
+  - Validating Email Addresses With a Filter | [Question](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/validate-list-of-email-address-with-filter)
 
 
 </details>
