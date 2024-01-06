@@ -71,6 +71,7 @@
   - No Idea! | [Question](https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/no-idea)
   - Word Order | [Question](https://www.hackerrank.com/challenges/word-order/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/word-order)
   - Company Logo | [Question](https://www.hackerrank.com/challenges/most-commons/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/most-commons)
+  - Piling Up! | [Question](https://www.hackerrank.com/challenges/piling-up/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/piling-up)
 
 
 </details>
