@@ -6,7 +6,6 @@ def print_rangoli(size):
 
     ans_list = []
     for i in range(size):
-        letters = letters[:size + 1]
         mid = letters[size - i]
         side = "-" * (1 if i != 0 else 0) + "-".join(letters[size - i + 1:])
         filler = "--" * (size - i - 1)
