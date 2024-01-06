@@ -1,0 +1,20 @@
+T = int(input())
+
+for k in range(T):
+    n, cubes = int(input()), list(map(int, input().split()))
+
+    if cubes[0] >= cubes[-1]:
+        ans = cubes.pop(0)
+    else:
+        ans = cubes.pop(-1)
+
+    while len(cubes) > 0:
+        if ans >= cubes[0] >= cubes[-1]:
+            ans = cubes.pop(0)
+        elif ans >= cubes[-1] > cubes[0]:
+            ans = cubes.pop(-1)
+        else:
+            print("No")
+            break
+    if len(cubes) == 0:
+        print("Yes")
