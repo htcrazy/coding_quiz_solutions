@@ -1,0 +1,9 @@
+import numpy
+
+a, b, c = map(int, input().split())
+
+ans = []
+for i in range(a+b):
+    ans.append(list(map(int, input().split())))
+
+print(numpy.array([*ans]))
