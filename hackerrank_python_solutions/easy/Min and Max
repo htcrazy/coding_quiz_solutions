@@ -1,0 +1,9 @@
+import numpy
+
+n, m = map(int, input().split())
+
+array = [list(map(int, input().split())) for i in range(n)]
+
+min_arr = numpy.min(array, axis = 1)
+
+print(numpy.max(min_arr))
