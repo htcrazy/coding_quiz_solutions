@@ -55,6 +55,10 @@
   - Mod Divmod | [Question](https://www.hackerrank.com/challenges/python-mod-divmod/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-mod-divmod)
   - Power - Mod Power | [Question](https://www.hackerrank.com/challenges/python-power-mod-power/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-power-mod-power)
   - Integers Come In All Sizes | [Question](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-integers-come-in-all-sizes)
+  - Concatenate | [Question](https://www.hackerrank.com/challenges/np-concatenate/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/np-concatenate)
+  - Zeros and Ones | [Question](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/np-zeros-and-ones)
+  - Eye and Identity | [Question](https://www.hackerrank.com/challenges/np-eye-and-identity/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/np-eye-and-identity)
+  - Array Mathematics | [Question](https://www.hackerrank.com/challenges/np-array-mathematics/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/np-array-mathematics)
 
 </details>
 <details>
