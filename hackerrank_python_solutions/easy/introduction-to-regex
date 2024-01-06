@@ -1,0 +1,8 @@
+import re
+
+T = int(input())
+
+for i in range(T):
+    test_case = input()
+    
+    print(None != re.match("^[+-]{0,1}[0-9]*\.[0-9]+$", test_case))
