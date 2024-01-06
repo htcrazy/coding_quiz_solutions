@@ -1,0 +1,6 @@
+import numpy
+
+poly_coef = list(map(float, input().split()))
+x = int(input())
+
+print(numpy.polyval(poly_coef, x))
