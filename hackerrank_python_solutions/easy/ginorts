@@ -1,0 +1,16 @@
+S = input()
+
+part1, part2, part3, part4 = [], [], [], []
+
+for char in S:
+    if char.islower():
+        part1.append(char)
+    elif char.isupper():
+        part2.append(char)
+    elif char.isdigit():
+        if int(char)%2 == 1 :
+            part3.append(char)
+        else:
+            part4.append(char)
+        
+print("".join(sorted(part1) + sorted(part2) + sorted(part3) + sorted(part4)))
