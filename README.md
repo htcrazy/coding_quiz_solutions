@@ -71,7 +71,9 @@
   - Arrays | [Question](https://www.hackerrank.com/challenges/np-arrays/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/np-arrays)
   - Transpose and Flatten | [Question](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/np-transpose-and-flatten)
   - Map and Lambda Function | [Question](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/map-and-lambda-expression)
-  - Reduce Function | [Question](https://www.hackerrank.com/challenges/reduce-function/problem?isFullScreen=true) | [Solution]()
+  - Detect Floating Point Number | [Question](https://www.hackerrank.com/challenges/introduction-to-regex/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/introduction-to-regex)
+  - Re.split() | [Question](https://www.hackerrank.com/challenges/re-split/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/re-split)
+  - Group(), Groups() & Groupdict() | [Question](hackerrank.com/challenges/re-group-groups/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/re-group-groups)
 
 </details>
 <details>
