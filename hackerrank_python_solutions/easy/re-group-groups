@@ -1,0 +1,8 @@
+import re
+
+thing = re.search(r"([a-zA-Z0-9])\1+",input())
+
+if thing:
+    print(thing.group(1))
+else:
+    print(-1)
