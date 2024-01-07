@@ -1,0 +1,3 @@
+n, listeroo = int(input()), input().split()
+pos, palin = [int(thing) > 0 for thing in listeroo], [thing == thing[::-1] for thing in listeroo]
+print(all(pos) and any(palin))
