@@ -74,6 +74,11 @@
   - Detect Floating Point Number | [Question](https://www.hackerrank.com/challenges/introduction-to-regex/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/introduction-to-regex)
   - Re.split() | [Question](https://www.hackerrank.com/challenges/re-split/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/re-split)
   - Group(), Groups() & Groupdict() | [Question](hackerrank.com/challenges/re-group-groups/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/re-group-groups)
+  - Calendar Module | [Question](https://www.hackerrank.com/challenges/calendar-module/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/calendar-module)
+  - Time Delta | [Question](https://www.hackerrank.com/challenges/python-time-delta/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-time-delta)
+  - Any or All | [Question](https://www.hackerrank.com/challenges/any-or-all/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/any-or-all)
+  - ginortS | [Question](https://www.hackerrank.com/challenges/ginorts/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/ginorts)
+  - Validating Roman Numerals | [Question](https://www.hackerrank.com/challenges/validate-a-roman-number/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/validate-a-roman-number)
 
 </details>
 <details>
