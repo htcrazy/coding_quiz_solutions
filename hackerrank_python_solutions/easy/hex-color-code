@@ -1,0 +1,8 @@
+import re
+reg_exp = r"(#[\da-fA-F]{6}|#[\da-fA-F]{3})[;,\)]"
+n = int(input())
+
+for i in range(n):
+    good_hex = re.findall(reg_exp, input())
+    if good_hex:
+        print(*good_hex, sep="\n")
