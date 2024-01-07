@@ -79,6 +79,7 @@
   - Any or All | [Question](https://www.hackerrank.com/challenges/any-or-all/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/any-or-all)
   - ginortS | [Question](https://www.hackerrank.com/challenges/ginorts/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/ginorts)
   - Validating Roman Numerals | [Question](https://www.hackerrank.com/challenges/validate-a-roman-number/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/validate-a-roman-number)
+  - Hex Color Code | [Question](https://www.hackerrank.com/challenges/hex-color-code/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/hex-color-code)
 
 </details>
 <details>
