@@ -102,5 +102,8 @@
   - Validating Email Addresses With a Filter | [Question](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/validate-list-of-email-address-with-filter)
   - Iterables and Iterators | [Question](https://www.hackerrank.com/challenges/iterables-and-iterators/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/iterables-and-iterators)
 
-
 </details>
+<details>
+  <summary>Python 3 | Difficulty : Hard</summary> 
+
+  - Maximize It! | [Question](https://www.hackerrank.com/challenges/maximize-it/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/hard/maximize-it)
