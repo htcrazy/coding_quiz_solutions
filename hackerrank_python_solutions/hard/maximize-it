@@ -1,1 +1,11 @@
+from itertools import product
 
+K, M = map(int, input().split())
+
+def add_it_up(n):
+    return int(n)**2
+
+mod_list = [list(map(add_it_up, input().split()[1:])) for i in range(K)]
+
+summed = [sum(thing) %M for thing in list(product(*mod_list))]
+print(max(summed))
