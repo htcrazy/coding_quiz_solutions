@@ -1,1 +1,10 @@
+from math import comb
 
+N = int(input())
+iter_this = input().split()
+K = int(input())
+
+denom = comb(N, K)
+numer = comb(len(iter_this) - iter_this.count("a"), K)
+
+print(1 - numer/denom)
