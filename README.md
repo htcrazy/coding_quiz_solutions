@@ -80,6 +80,7 @@
   - ginortS | [Question](https://www.hackerrank.com/challenges/ginorts/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/ginorts)
   - Validating Roman Numerals | [Question](https://www.hackerrank.com/challenges/validate-a-roman-number/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/validate-a-roman-number)
   - Hex Color Code | [Question](https://www.hackerrank.com/challenges/hex-color-code/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/hex-color-code)
+  - Exceptions | [Question](https://www.hackerrank.com/challenges/exceptions/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/exceptions)
 
 </details>
 <details>
@@ -99,6 +100,7 @@
   - Piling Up! | [Question](https://www.hackerrank.com/challenges/piling-up/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/piling-up)
   - Reduce Function | [Question](https://www.hackerrank.com/challenges/reduce-function/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/reduce-function)
   - Validating Email Addresses With a Filter | [Question](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/validate-list-of-email-address-with-filter)
+  - Iterables and Iterators | [Question](https://www.hackerrank.com/challenges/iterables-and-iterators/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/iterables-and-iterators)
 
 
 </details>
