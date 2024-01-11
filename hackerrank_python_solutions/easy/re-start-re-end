@@ -1,0 +1,13 @@
+import re
+
+S, k = input(), input()
+
+ans = re.finditer(r'(?=(' + k + '))', S)
+
+exist = False
+for thing in ans:
+    exist = True
+    print((thing.start(1), thing.end(1) - 1))
+
+if exist == False:
+    print((-1, -1))
