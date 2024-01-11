@@ -1,0 +1,11 @@
+import re
+
+S = input()
+
+ans = re.findall(r"(?=([qwrtypsdfghjklzxcvbnmQWRTYPSDFGHJKLZXCVBNM][AEIOUaeiou]{2,}[qwrtypsdfghjklzxcvbnmQWRTYPSDFGHJKLZXCVBNM]))", S)
+
+if len(ans) != 0:
+    for thing in ans:
+        print(thing[1:-1])
+else:
+    print(-1)
