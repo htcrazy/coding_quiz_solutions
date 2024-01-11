@@ -83,6 +83,7 @@
   - Exceptions | [Question](https://www.hackerrank.com/challenges/exceptions/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/exceptions)
   - HTML Parser - Part 1 | [Question](https://www.hackerrank.com/challenges/html-parser-part-1/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/html-parser-part-1)
   - HTML Parser - Part 2 | [Question](https://www.hackerrank.com/challenges/html-parser-part-2/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/html-parser-part-2)
+  - Zipped! | [Question](https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/zipped)
 
 </details>
 <details>
