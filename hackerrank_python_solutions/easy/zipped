@@ -1,0 +1,6 @@
+N, X = map(int, input().split())
+
+da_list = [list(map(float, input().split())) for i in range(X)]
+
+for thing in zip(*da_list):
+    print(sum(thing)/X)
