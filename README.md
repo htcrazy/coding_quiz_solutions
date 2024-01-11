@@ -3,6 +3,8 @@
   <summary>Python 3 | Difficulty : Easy</summary> 
 
   - Say "Hello World!" With Python | [Question](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py_hello_world)
+  - Input() | [Question](https://www.hackerrank.com/challenges/input/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/input)
+  - Python Evaluation | [Question](https://www.hackerrank.com/challenges/python-eval/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/python-eval)
   - Introduction to Sets | [Question](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py-intro-to-sets)
   - Symmetric Difference | [Question](https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/symmetric-difference)
   - Symmetric Difference Operation | [Question](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/py-set-symmetric-difference-operation)
@@ -104,6 +106,7 @@
   - Reduce Function | [Question](https://www.hackerrank.com/challenges/reduce-function/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/reduce-function)
   - Validating Email Addresses With a Filter | [Question](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/validate-list-of-email-address-with-filter)
   - Iterables and Iterators | [Question](https://www.hackerrank.com/challenges/iterables-and-iterators/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/iterables-and-iterators)
+  - Athlete Sort | [Question](https://www.hackerrank.com/challenges/python-sort-sort/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/python-sort-sort)
 
 </details>
 <details>
