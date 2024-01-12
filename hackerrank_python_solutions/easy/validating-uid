@@ -1,1 +1,12 @@
-
+import re
+for _ in range(int(input())):
+    test_me = input()
+    two_uppers = re.search(r"(.*[A-Z]){2,}", test_me)
+    three_digits = re.search(r"(.*[0-9]){3,}", test_me)
+    ten_alpha_nums = re.search(r"^[a-zA-Z0-9]{10}$", test_me)
+    repeated = re.search(r".*(.).*\1+.*", test_me)
+    
+    if bool(repeated) or not (bool(two_uppers) and bool(three_digits) and bool(ten_alpha_nums)):
+        print("Invalid")
+    else: 
+        print("Valid")
