@@ -90,6 +90,10 @@
   - HTML Parser - Part 1 | [Question](https://www.hackerrank.com/challenges/html-parser-part-1/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/html-parser-part-1)
   - HTML Parser - Part 2 | [Question](https://www.hackerrank.com/challenges/html-parser-part-2/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/html-parser-part-2)
   - Zipped! | [Question](https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/zipped)
+  - Detect HTML Tags, Attributes and Attribute Values | [Question](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/detect-html-tags-attributes-and-attribute-values)
+  - Validating UID | [Question](https://www.hackerrank.com/challenges/validating-uid/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/validating-uid)
+  - Standardize Mobile Number Using Decorators | [Question](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/standardize-mobile-number-using-decorators)
+  - Decorators 2 - Name Directory | [Question](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/easy/decorators-2-name-directory)
 
 </details>
 <details>
