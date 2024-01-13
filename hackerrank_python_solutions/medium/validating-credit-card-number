@@ -1,1 +1,10 @@
+import re
 
+for _ in range(int(input())):
+    test_this = input()
+    test_repetition = re.search(r"([\d]+)\1\1\1", test_this.replace("-", ""))
+    test_else = re.match(r"^[456]([\d]{15}|[\d]{3}(-[\d]{4}){3})$", test_this)
+    if test_else and not test_repetition:
+        print("Valid")
+    else:
+        print("Invalid")
