@@ -1,1 +1,10 @@
+import re
 
+def do_the_thing(thing):
+    if thing.group() == "&&":
+        return "and"
+    if thing.group() == "||":
+        return "or"
+
+for _ in range(int(input())):
+    print(re.sub(r"(?<= )(&&|\|\|)(?= )", do_the_thing, input()))
