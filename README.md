@@ -115,9 +115,15 @@
   - Validating Email Addresses With a Filter | [Question](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/validate-list-of-email-address-with-filter)
   - Iterables and Iterators | [Question](https://www.hackerrank.com/challenges/iterables-and-iterators/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/iterables-and-iterators)
   - Athlete Sort | [Question](https://www.hackerrank.com/challenges/python-sort-sort/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/python-sort-sort)
+  - Regex Substitution | [Question](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/re-sub-regex-substitution)
+  - Validating Credit Card Numbers | [Question](https://www.hackerrank.com/challenges/validating-credit-card-number/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/validating-credit-card-number)
+  - Words Score | [Question](https://www.hackerrank.com/challenges/words-score/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/words-score)
+  - Default Arguments | [Question](https://www.hackerrank.com/challenges/default-arguments/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/medium/default-arguments)
 
 </details>
 <details>
   <summary>Python 3 | Difficulty : Hard</summary> 
 
   - Maximize It! | [Question](https://www.hackerrank.com/challenges/maximize-it/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/hard/maximize-it)
+  - Validating Postal Codes | [Question](https://www.hackerrank.com/challenges/validating-postalcode/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/hard/validating-postalcode)
+  - Matrix Script | [Question](https://www.hackerrank.com/challenges/matrix-script/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/hard/matrix-script)
