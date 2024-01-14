@@ -130,7 +130,7 @@
 
 </details>
 
-# leetcode solutions
+# LeetCode solutions
 <details>
   <summary>Python 3 | Difficulty : Easy</summary> 
 
