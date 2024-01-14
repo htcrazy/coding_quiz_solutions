@@ -127,3 +127,10 @@
   - Maximize It! | [Question](https://www.hackerrank.com/challenges/maximize-it/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/hard/maximize-it)
   - Validating Postal Codes | [Question](https://www.hackerrank.com/challenges/validating-postalcode/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/hard/validating-postalcode)
   - Matrix Script | [Question](https://www.hackerrank.com/challenges/matrix-script/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/hard/matrix-script)
+
+</details>
+# leetcode solutions
+<details>
+  <summary>Python 3 | Difficulty : Easy</summary> 
+
+  - Two Sum | [Question](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/easy/two_sum)
