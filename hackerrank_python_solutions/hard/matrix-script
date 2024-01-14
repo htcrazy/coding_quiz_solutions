@@ -1,1 +1,17 @@
+import re
 
+n, m = map(int, input().split())
+
+matrix = []
+for _ in range(n):
+    matrix_item = input()
+    matrix.append(matrix_item)
+
+transpose_it = []
+for i in list(map(list, zip(*matrix))):
+    for k in i:
+        transpose_it.append(k)
+
+combine_it = "".join(transpose_it)
+
+print(re.sub(r"(?<=[a-zA-Z\d])([!@#$%& ]+)(?=[a-zA-Z\d])", " ", combine_it))
