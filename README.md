@@ -129,6 +129,7 @@
   - Matrix Script | [Question](https://www.hackerrank.com/challenges/matrix-script/problem?isFullScreen=true) | [Solution](https://github.com/htcrazy/hackerrank_solutions/blob/main/hackerrank_python_solutions/hard/matrix-script)
 
 </details>
+
 # leetcode solutions
 <details>
   <summary>Python 3 | Difficulty : Easy</summary> 
