@@ -1,1 +1,12 @@
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        memo = {}
+        ans, start = 0, 0
 
+        for end, letter in enumerate(s):
+            if memo.get(letter, -1) >= start:
+                start = memo[letter] + 1
+            memo[letter] = end
+            ans = max(ans, end - start + 1)
+        
+        return ans
