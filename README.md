@@ -132,10 +132,10 @@
 
 # LeetCode solutions
 <details>
-  <summary>Python 3 | 1 - 10</summary> 
+<summary>Python 3 | 1 - 10</summary> 
 
-  1.Two Sum | [Question](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/two_sum)
-  2. Add Two Numbers | [Question](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/add_two_numbers)
-  3. Palindrome | [Question](https://leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/palindrome_number)
+1. Two Sum | [Question](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/two_sum)
+2. Add Two Numbers | [Question](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/add_two_numbers)
+3. Palindrome | [Question](https://leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/palindrome_number)
 
 </details>
