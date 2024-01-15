@@ -1,1 +1,29 @@
+class Solution:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+        l1_runner = l1
+        l2_runner = l2
+        array1 = []
+        array2 = []
+        
+        while l1_runner != None:
+            array1.append(l1_runner.val)
+            l1_runner = l1_runner.next
 
+        while l2_runner != None:
+            array2.append(l2_runner.val)
+            l2_runner = l2_runner.next
+
+        array1.reverse()
+        array2.reverse()
+
+        num1 = int("".join(str(x) for x in array1))
+        num2 = int("".join(str(x) for x in array2))
+        added = list(str(num1 + num2))
+
+        ans = ans_runner = ListNode(added.pop())
+        added.reverse()
+
+        for thing in added:
+            ans_runner.next = ListNode(thing)
+            ans_runner = ans_runner.next
+        return ans
