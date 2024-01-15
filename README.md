@@ -135,3 +135,11 @@
   <summary>Python 3 | Difficulty : Easy</summary> 
 
   - Two Sum | [Question](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/easy/two_sum)
+
+</details>
+<details>
+  <summary>Python 3 | Difficulty : Medium</summary> 
+
+  - Add Two Numbers | [Question](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/medium/add_two_numbers)
+
+</details>
