@@ -1,1 +1,10 @@
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+        if x%10 == 0 and x!=0:
+            return False
 
+        heads, tails = x, 0
+        while heads > tails:
+            heads, tails = heads // 10, tails*10 + heads%10
+
+        return heads == tails or heads == tails//10
