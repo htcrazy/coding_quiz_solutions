@@ -1,27 +1,40 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
-        x = [1 if char == "I" else 5 if char == "V" else 10 if char == "X" else 50 if char == "L" else 100 if char == "C" else 500 if char == "D" else 1000 for char in s]
-
         ans = 0
-        num1, num2 = 0, 0
 
-        for num3 in x:
+        if "IV" in s:
+            ans += 4
+            s = s.replace("IV", "")
+        if "IX" in s:
+            ans += 9
+            s = s.replace("IX", "")
+        if "XL" in s:
+            ans += 40
+            s = s.replace("XL", "")
+        if "XC" in s:
+            ans += 90
+            s = s.replace("XC", "")
+        if "CD" in s:
+            ans += 400
+            s = s.replace("CD", "")
+        if "CM" in s:
+            ans += 900
+            s = s.replace("CM", "")
 
-            if num1 != 0:
-                if num1 >= num2:
-                    ans += num1
-                    num1 = num2
-                else:
-                    num1 = num2 - num1
-            
-            else:
-                num1 = num2
-
-            num2 = num3
-
-        if num1 < num2:
-            ans += num2 - num1
-        else:
-            ans += num1 + num2
+        for char in s:
+            if char == "I":
+                ans += 1
+            elif char == "V":
+                ans += 5
+            elif char == "X":
+                ans += 10
+            elif char == "L":
+                ans += 50
+            elif char == "C":
+                ans += 100
+            elif char == "D":
+                ans += 500
+            elif char == "M":
+                ans += 1000
         
         return ans
