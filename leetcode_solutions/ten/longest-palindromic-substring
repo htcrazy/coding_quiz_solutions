@@ -1,1 +1,27 @@
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        ans = s[0], 1
 
+        for i, letter in enumerate(s):
+            length = len(s)
+
+            if length - i > ans[1]:
+                all_letters = [i for i in range(length) if s[i] == letter][1:]
+
+                while all_letters:
+                    left_runner = i
+                    end = right_runner = all_letters.pop()
+                    maybe_ans = [right_runner - left_runner + 1, True]
+
+                    while left_runner < right_runner:
+                        left_runner += 1
+                        right_runner -= 1
+
+                        if s[left_runner] != s[right_runner]:
+                            maybe_ans[1] = False
+                            break
+
+                    if maybe_ans[1] and maybe_ans[0] > ans[1]:
+                        ans = s[i : end+1], maybe_ans[0]
+
+        return ans[0]
