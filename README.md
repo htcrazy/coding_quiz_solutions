@@ -140,5 +140,6 @@
 4. Median of Two Sorted Arrays | [Question](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/median-of-two-sorted-arrays)
 5. Longest Palindromic Substring | [Question](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/longest-palindromic-substring)
 9. Palindrome | [Question](https://leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/palindrome_number)
+13. Roman to Integer | [Question](https://leetcode.com/problems/roman-to-integer/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/twenty/roman-to-integer)
 
 </details>
