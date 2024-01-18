@@ -13,7 +13,7 @@ class Solution:
                 trans1[big_mod].append(s[i])
         return "".join(["".join(x) for x in trans1])
 
-""" 
+""" Alternate Answer
 class Solution(object):
     def convert(self, s, numRows):
         if numRows == 1 or numRows >= len(s):
