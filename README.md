@@ -139,7 +139,7 @@
 3. Longest Substring Without Repeating Characters | [Question](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/longest-substring-without-repeating-characters)
 4. Median of Two Sorted Arrays | [Question](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/median-of-two-sorted-arrays)
 5. Longest Palindromic Substring | [Question](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/longest-palindromic-substring)
-6. To do
+6. Zigzag Conversion | [Question](https://leetcode.com/problems/zigzag-conversion/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/zigzag-conversion)
 7. To do
 8. To do
 9. Palindrome | [Question](https://leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/palindrome_number)
