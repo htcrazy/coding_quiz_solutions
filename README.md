@@ -141,7 +141,7 @@
 5. Longest Palindromic Substring | [Question](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/longest-palindromic-substring)
 6. Zigzag Conversion | [Question](https://leetcode.com/problems/zigzag-conversion/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/zigzag-conversion)
 7. Reverse Integer | [Question](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/reverse-integer)
-8. To do
+8. String to Integer (atoi) | [Question](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/string-to-integer-atoi)
 9. Palindrome | [Question](https://leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/palindrome_number)
 10. To do
 
