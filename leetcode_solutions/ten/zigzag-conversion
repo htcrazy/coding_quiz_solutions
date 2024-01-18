@@ -1,1 +1,14 @@
-
+class Solution:
+    def convert(self, s: str, numRows: int) -> str:
+        if numRows == len(s) or numRows == 1:
+            return s
+        else:
+            trans1 = [[] for _ in range(numRows)]
+            
+            for i in range(len(s)):
+                big_mod = i % (numRows * 2 - 2)
+                if big_mod > numRows - 1:
+                    trans1[numRows -1 - big_mod %(numRows - 1)].append(s[i])
+                else:
+                    trans1[big_mod].append(s[i])
+            return "".join(["".join(x) for x in trans1])
