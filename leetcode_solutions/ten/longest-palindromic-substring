@@ -1,27 +1,29 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        ans = s[0], 1
+        if len(s) <=1:
+            return s
+        
+        run_this = "#" + "#".join(s) + "#"
+        radius = [0 for _ in run_this]
+        ans_string = s[0]
+        ans_length = 1
+        big_p_here = 0
+        right_end = 0
 
-        for i, letter in enumerate(s):
-            length = len(s)
+        for i in range(len(run_this)):
 
-            if length - i > ans[1]:
-                all_letters = [i for i in range(length) if s[i] == letter][1:]
+            if i < right_end:
+                radius[i] = min(radius[big_p_here - (i - big_p_here)], right_end - i)
 
-                while all_letters:
-                    left_runner = i
-                    end = right_runner = all_letters.pop()
-                    maybe_ans = [right_runner - left_runner + 1, True]
+            while i - 1 - radius[i] >= 0 and i + 1 + radius[i] < len(run_this) and run_this[i - 1 - radius[i]] == run_this[i + 1 + radius[i]]:
+                radius[i] += 1
 
-                    while left_runner < right_runner:
-                        left_runner += 1
-                        right_runner -= 1
+            if radius[i] > ans_length:
+                ans_length = radius[i]
+                ans_string = run_this[i - radius[i] : i + radius[i] + 1].replace("#","")
 
-                        if s[left_runner] != s[right_runner]:
-                            maybe_ans[1] = False
-                            break
+            if i + radius[i] > right_end:
+                big_p_here = i
+                right_end = i + radius[i]
 
-                    if maybe_ans[1] and maybe_ans[0] > ans[1]:
-                        ans = s[i : end+1], maybe_ans[0]
-
-        return ans[0]
+        return ans_string
