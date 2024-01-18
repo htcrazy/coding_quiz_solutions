@@ -1,1 +1,33 @@
+class Solution:
+    def myAtoi(self, s: str) -> int:
+        naked = s.lstrip()
+        
+        if len(naked) == 0 or (len(naked) == 1 and not naked.isdigit()):
+            return 0
 
+        is_neg = False
+        start_offset = 0
+
+        if naked[0] == "-":
+            is_neg = True
+            start_offset = 1
+        elif naked[0] == "+":
+            start_offset = 1
+
+        if naked[start_offset].isdigit():
+            stop_hither = len(naked) + 1
+            for char in range(len(naked[start_offset:])):
+                if not naked[char + start_offset].isdigit():
+                    stop_hither = char + start_offset
+                    break
+
+            ans = int(naked[start_offset:stop_hither]) if not is_neg else int("-" + naked[start_offset:stop_hither])
+
+            if -2 ** 31 <= ans <= 2 ** 31 - 1:
+                return ans
+            elif ans < -2 ** 31:
+                return -2 ** 31
+            else:
+                return 2 ** 31 - 1
+        else:
+            return 0
