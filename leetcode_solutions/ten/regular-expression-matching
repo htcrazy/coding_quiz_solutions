@@ -1,1 +1,24 @@
+class Solution:
+    def isMatch(self, s: str, p: str) -> bool:
+        memo = {}
+        
+        def ghetto_reg(x, y):
+            if (x, y) in memo:
+                return memo[x, y]
+            if x < len(s) and y >= len(p):
+                return False
+            elif y >= len(p):
+                return True
 
+            match = x < len(s) and (p[y] == s[x] or p[y] == ".")
+            if y < len(p) - 1 and p[y+1] == "*":
+                memo[x, y] = ghetto_reg(x, y+2) or (match and ghetto_reg(x+1, y))
+                return memo[x, y]
+
+            if match:
+                memo[x, y] = ghetto_reg(x+1, y+1)
+                return memo[x, y]
+
+            return False
+    
+        return ghetto_reg(0, 0)
