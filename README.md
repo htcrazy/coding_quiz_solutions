@@ -153,5 +153,6 @@
 12. Integer to Roman | [Question](https://leetcode.com/problems/integer-to-roman/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/twenty/integer-to-roman)
 13. Roman to Integer | [Question](https://leetcode.com/problems/roman-to-integer/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/twenty/roman-to-integer)
 14. Longest Common Prefix | [Question](https://leetcode.com/problems/longest-common-prefix/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/twenty/longest-common-prefix)
+15. 3Sum | [Question](https://leetcode.com/problems/3sum/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/twenty/3sum)
 
 </details>
