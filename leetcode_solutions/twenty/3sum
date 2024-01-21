@@ -1,1 +1,39 @@
+class Solution:
+    def threeSum(self, nums: list[int]) -> list[list[int]]:
+        neg, zeroes, pos, ans = [], [], [], set()
 
+        # split list into negatives, zeroes, and positives
+        for thing in nums:
+            if thing < 0:
+                neg.append(thing)
+            elif thing > 0:
+                pos.append(thing)
+            else:
+                zeroes.append(thing)
+        set_neg, set_pos = set(neg), set(pos)
+
+        # two negatives, one positive
+        for i1 in range(len(neg) - 1):
+            for i2 in range(i1+1, len(neg)):
+                mathed = neg[i1] + neg[i2]
+                if -mathed in set_pos:
+                    ans.add(tuple(sorted([neg[i1], neg[i2], -mathed])))
+
+        # two postives, one negative
+        for i1 in range(len(pos) - 1):
+            for i2 in range(i1+1, len(pos)):
+                mathed = pos[i1] + pos[i2]
+                if -mathed in set_neg:
+                    ans.add(tuple(sorted([pos[i1], pos[i2], -mathed])))
+
+        # one negative, one zero, one positive
+        if len(zeroes) >= 1:
+            for thing in set_neg:
+                if -thing in set_pos:
+                    ans.add(tuple(sorted([thing, 0, -thing])))
+
+        # three zeroes
+        if len(zeroes) >= 3:
+            ans.add((0,0,0))
+
+        return list(ans)
