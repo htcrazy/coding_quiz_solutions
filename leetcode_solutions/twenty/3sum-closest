@@ -5,6 +5,14 @@ class Solution:
         length = len(nums)
         dist = -1
 
+        smol_check = sum(nums[:3])
+        if smol_check >= target:
+            return smol_check
+        
+        big_check = sum(nums[-3:])
+        if big_check <= target:
+            return big_check
+
         for x in range(length):
             y = x + 1
             z = length - 1
