@@ -1,1 +1,37 @@
+class Solution:
+    def fourSum(self, nums: list[int], target: int) -> list[list[int]]:
+        nums.sort()
+        length = len(nums)
+        ans = []
 
+        for a in range(length-3):
+            # skip over numbers that are repeated
+            if a > 0 and nums[a] == nums[a-1]:
+                continue
+
+            for b in range(a+1, length-2):
+                # skip over numbers that are repeated
+                if b > a+1 and nums[b] == nums[b-1]:
+                    continue
+                
+                c = b + 1
+                d = length - 1
+                while c < d:
+                    summed = nums[a] + nums[b] + nums[c] + nums[d]
+
+                    if summed > target:
+                        d -= 1
+                    elif summed < target:
+                        c += 1
+                    elif summed == target:
+                        ans.append([nums[a], nums[b], nums[c], nums[d]])
+
+                        # iterate + skip over numbers that are repeated
+                        while c < d and nums[c] == nums[c+1]:
+                            c += 1
+                        c += 1
+                        while c < d and nums[d] == nums[d-1]:
+                            d -= 1
+                        d -= 1
+
+        return ans
