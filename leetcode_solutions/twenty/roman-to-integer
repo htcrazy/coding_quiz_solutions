@@ -2,6 +2,7 @@ class Solution:
     def romanToInt(self, s: str) -> int:
         ans = 0
 
+        # 4's and 9's can only appear once
         if "IV" in s:
             ans += 4
             s = s.replace("IV", "")
@@ -21,6 +22,7 @@ class Solution:
             ans += 900
             s = s.replace("CM", "")
 
+        # now loop through the rest of the roman numerals
         for char in s:
             if char == "I":
                 ans += 1
