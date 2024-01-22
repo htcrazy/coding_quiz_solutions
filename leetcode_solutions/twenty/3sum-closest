@@ -5,14 +5,17 @@ class Solution:
         length = len(nums)
         dist = -1
 
+        # Check to see if target is below 3 smallest numbers
         smol_check = sum(nums[:3])
         if smol_check >= target:
             return smol_check
-        
+        # check to see if target is above 3 largest numbers
         big_check = sum(nums[-3:])
         if big_check <= target:
             return big_check
 
+        # For each x, use y pointer for smallest number and z for largest number
+        # If sum is too big, move z down. If sum is too small, move y up.
         for x in range(length):
             y = x + 1
             z = length - 1
