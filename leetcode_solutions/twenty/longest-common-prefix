@@ -1,10 +1,13 @@
 class Solution:
     def longestCommonPrefix(self, strs: list[str]) -> str:
-        ans = ""
+
+        # put list in abc-order to compare first and last word
         abc_order = sorted(strs)
         first_word = abc_order[0]
         last_word = abc_order[-1]
+        ans = ""
 
+        # if first word shorter, use that as initial answer
         if len(first_word) < len(last_word):
             for _ in range(len(first_word)):
                 if last_word.startswith(first_word):
@@ -12,6 +15,7 @@ class Solution:
                 first_word = first_word[:-1]
             ans = first_word
 
+        # if last word shorter, use that as initial answer
         else:
             for _ in range(len(last_word)):
                 if first_word.startswith(last_word):
