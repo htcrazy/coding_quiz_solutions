@@ -157,5 +157,7 @@
 16. 3Sum Closest | [Question](https://leetcode.com/problems/3sum-closest/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/twenty/3sum-closest)
 17. Letter Combinations of a Phone Number | [Question](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/twenty/letter-combinations-of-a-phone-number)
 18. 4Sum | [Question](https://leetcode.com/problems/4sum/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/twenty/4sum)
+19. Remove Nth Node From End of List | [Question](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/twenty/remove-nth-node-from-end-of-list)
+20. Valid Parentheses | [Question](https://leetcode.com/problems/valid-parentheses/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/twenty/valid-parentheses)
 
 </details>
