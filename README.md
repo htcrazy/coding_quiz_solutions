@@ -165,5 +165,6 @@
   <summary>Python 3 | 21 - 30</summary> 
   
 21. Merge Two Sorted Lists | [Question](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/thirty/merge-two-sorted-lists)
+22. Generate Parentheses | [Question](https://leetcode.com/problems/generate-parentheses/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/thirty/generate-parentheses)
 
 </details>
