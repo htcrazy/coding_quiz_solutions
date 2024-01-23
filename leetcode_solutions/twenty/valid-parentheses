@@ -1,1 +1,20 @@
+class Solution:
+    def isValid(self, s: str) -> bool:
+        lefts = "([{"
+        rights = ")]}"
 
+        # if we start with a closing parenthesis
+        if s[0] in rights: return False
+        # if we end with a starting parenthesis
+        if s[-1] in lefts: return False
+
+        temp = ""
+        for char in s:
+            if char in lefts:
+                temp += char
+            elif temp and char in rights and rights.index(char) == lefts.index(temp[-1]):
+                temp = temp[:-1]
+            else:
+                return False
+        
+        return not temp
