@@ -163,6 +163,6 @@
 </details>
 <details>
   <summary>Python 3 | 21 - 30</summary> 
-21. Merge Two Sorted Lists | [Question](https://leetcode.com/problems/merge-two-sorted-lists/description/)) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/thirty/merge-two-sorted-lists)
+21. Merge Two Sorted Lists | [Question](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/thirty/merge-two-sorted-lists)
 
 </details>
