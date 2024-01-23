@@ -1,0 +1,15 @@
+class Solution:
+    def generateParenthesis(self, n: int) -> list[str]:
+        ans = []
+
+        def left_right(left: int, right: int, sub_ans: str = ""): #totes:4, left:1, right:2
+            if left == 0 and right == 0:
+                ans.append(sub_ans)
+            if left > 0:
+                left_right(left-1, right, sub_ans + "(")
+            if right > left:
+                left_right(left, right-1, sub_ans + ")")
+
+            return ans
+
+        return left_right(n, n)
