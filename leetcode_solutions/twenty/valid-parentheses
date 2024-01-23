@@ -12,7 +12,7 @@ class Solution:
         for char in s:
             if char in lefts:
                 temp += char
-            elif temp and char in rights and rights.index(char) == lefts.index(temp[-1]):
+            elif temp and rights.index(char) == lefts.index(temp[-1]):
                 temp = temp[:-1]
             else:
                 return False
