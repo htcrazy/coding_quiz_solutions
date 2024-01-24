@@ -134,16 +134,16 @@
 <details>
 <summary>Python 3 | 1 - 10</summary> 
 
-1. Two Sum | [Question](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/two_sum)
-2. Add Two Numbers | [Question](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/add_two_numbers)
-3. Longest Substring Without Repeating Characters | [Question](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/longest-substring-without-repeating-characters)
-4. Median of Two Sorted Arrays | [Question](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/median-of-two-sorted-arrays)
-5. Longest Palindromic Substring | [Question](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/longest-palindromic-substring)
-6. Zigzag Conversion | [Question](https://leetcode.com/problems/zigzag-conversion/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/zigzag-conversion)
-7. Reverse Integer | [Question](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/reverse-integer)
-8. String to Integer (atoi) | [Question](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/string-to-integer-atoi)
-9. Palindrome | [Question](https://leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/palindrome_number)
-10. Regular Expression Matching | [Question](https://leetcode.com/problems/regular-expression-matching/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/regular-expression-matching)
+1. Two Sum (Easy) | [Question](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/two_sum)
+2. Add Two Numbers (Medium) | [Question](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/add_two_numbers)
+3. Longest Substring Without Repeating Characters (Medium) | [Question](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/longest-substring-without-repeating-characters)
+4. Median of Two Sorted Arrays (Hard) | [Question](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/median-of-two-sorted-arrays)
+5. Longest Palindromic Substring (Medium) | [Question](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/longest-palindromic-substring)
+6. Zigzag Conversion (Medium) | [Question](https://leetcode.com/problems/zigzag-conversion/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/zigzag-conversion)
+7. Reverse Integer (Medium) | [Question](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/reverse-integer)
+8. String to Integer atoi (Medium) | [Question](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/string-to-integer-atoi)
+9. Palindrome (Easy) | [Question](https://leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/palindrome_number)
+10. Regular Expression Matching (Hard) | [Question](https://leetcode.com/problems/regular-expression-matching/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ten/regular-expression-matching)
 
 </details>
 <details>
@@ -169,4 +169,9 @@
 23. Merge k Sorted Lists (Hard) | [Question](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/thirty/merge-k-sorted-lists)
 24. Swap Node in Pairs (Medium) | [Question](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution]()
 
+</details>
+<details>
+  <summary>Python 3 | 1451 - 1460</summary> 
+  
+1457. Merge Two Sorted Lists (Easy) | [Question](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/thirty/merge-two-sorted-lists)
 </details>
