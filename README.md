@@ -191,6 +191,20 @@
 40. Combination Sum II (Medium) | [Question](https://leetcode.com/problems/combination-sum-ii/description/) | [Solution]
 </details>
 <details>
+  <summary>Python 3 | 41 - 50</summary> 
+  
+41. First Missing Positie (Hard) | [Question](https://leetcode.com/problems/first-missing-positive/description/) | [Solution]
+42. Trapping Rain Water (Hard) | [Question](https://leetcode.com/problems/trapping-rain-water/description/) | [Solution]
+43. Multiply Strings (Medium) | [Question](https://leetcode.com/problems/multiply-strings/description/) | [Solution]
+44. Wildcard Matching (Hard) | [Question](https://leetcode.com/problems/wildcard-matching/description/) | [Solution]
+45. Jump Game II (Medium) | [Question](https://leetcode.com/problems/jump-game-ii/description/) | [Solution]
+46. Permutations (Medium) | [Question](https://leetcode.com/problems/permutations/description/) | [Solution]
+47. Permutations II (Medium) | [Question](https://leetcode.com/problems/permutations-ii/description/) | [Solution]
+48. Rotate Image (Medium) | [Question](https://leetcode.com/problems/rotate-image/description/) | [Solution]
+49. Group Anagrams (Medium) | [Question](https://leetcode.com/problems/group-anagrams/description/) | [Solution]
+50. Pow(x, n) (Medium) | [Question](https://leetcode.com/problems/powx-n/description/) | [Solution]
+</details>
+<details>
   <summary>Python 3 | 51 - 60</summary> 
   
 51. N-Queens (Hard) | [Question](https://leetcode.com/problems/n-queens/description/) | [Solution]
@@ -202,7 +216,7 @@
 57. Insert Interval (Medium) | [Question](https://leetcode.com/problems/insert-interval/description/) | [Solution]
 58. Length of Last Word (Easy) | [Question](https://leetcode.com/problems/length-of-last-word/description/) | [Solution]
 59. Spiral Matrix II (Medium) | [Question](https://leetcode.com/problems/spiral-matrix-ii/description/) | [Solution]
-60. Permutation Sequence (Hard) | [Question](https://leetcode.com/problems/permutation-sequence/description/) | [Solution]  <span style="color:blue">some *This is Blue italic.* text</span>
+60. Permutation Sequence (Hard) | [Question](https://leetcode.com/problems/permutation-sequence/description/) | [Solution]
 </details>
 <details>
   <summary>Python 3 | 1451 - 1460</summary> 
