@@ -1,12 +1,7 @@
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
         width = len(needle)
-        ans, i = -1, 0
-
-        while ans < 0 and i <= len(haystack) - width:
+        for i in range(len(haystack) - width + 1):
             if haystack[i : i+width] == needle:
-                ans = i
-                break
-            i += 1
-
-        return ans
+                return i
+        return -1
