@@ -191,6 +191,20 @@
 40. Combination Sum II (Medium) | [Question](https://leetcode.com/problems/combination-sum-ii/description/) | [Solution]
 </details>
 <details>
+  <summary>Python 3 | 51 - 60</summary> 
+  
+51. N-Queens (Hard) | [Question](https://leetcode.com/problems/n-queens/description/) | [Solution]
+52. N-Queens II (Hard) | [Question](https://leetcode.com/problems/n-queens-ii/description/) | [Solution]
+53. Maximum Subarray (Medium) | [Question](https://leetcode.com/problems/maximum-subarray/description/) | [Solution]
+54. Spiral Matrix (Medium) | [Question](https://leetcode.com/problems/spiral-matrix/description/) | [Solution]
+55. Jump Game (Medium) | [Question](https://leetcode.com/problems/jump-game/description/) | [Solution]
+56. Merge Intervals (Medium) | [Question](https://leetcode.com/problems/merge-intervals/description/) | [Solution]
+57. Insert Interval (Medium) | [Question](https://leetcode.com/problems/insert-interval/description/) | [Solution]
+58. Length of Last Word (Easy) | [Question](https://leetcode.com/problems/length-of-last-word/description/) | [Solution]
+59. Spiral Matrix II (Medium) | [Question](https://leetcode.com/problems/spiral-matrix-ii/description/) | [Solution]
+60. Permutation Sequence (Hard) | [Question](https://leetcode.com/problems/permutation-sequence/description/) | [Solution]  <span style="color:blue">some *This is Blue italic.* text</span>
+</details>
+<details>
   <summary>Python 3 | 1451 - 1460</summary> 
   
 1457. Merge Two Sorted Lists (Easy) | [Question](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/thirty/merge-two-sorted-lists)
