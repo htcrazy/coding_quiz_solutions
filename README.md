@@ -234,6 +234,30 @@
 70. Climbing Stairs (Easy) | [Question](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/seventy/climbing-stairs)
 </details>
 <details>
+  <summary>Python 3 | 71 - 80</summary> 
+  
+71. () | [Question]() | [Solution]()
+</details>
+<details>
+  <summary>Python 3 | 81 - 90</summary> 
+  
+81. () | [Question]() | [Solution]()
+82. () | [Question]() | [Solution]()
+83. Remove Duplicates from Sorted List (Easy) | [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ninety/remove-duplicates-from-sorted-list)
+84. () | [Question]() | [Solution]()
+85. () | [Question]() | [Solution]()
+86. () | [Question]() | [Solution]()
+87. () | [Question]() | [Solution]()
+88. Merge Sorted Array (Easy) | [Question](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ninety/merge-sorted-array)
+89. () | [Question]() | [Solution]()
+90. () | [Question]() | [Solution]()
+</details>
+<details>
+  <summary>Python 3 | 91 - 100</summary> 
+  
+91. () | [Question]() | [Solution]()
+</details>
+<details>
   <summary>Python 3 | 1451 - 1460</summary> 
   
 1457. Merge Two Sorted Lists (Easy) | [Question](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/thirty/merge-two-sorted-lists)
