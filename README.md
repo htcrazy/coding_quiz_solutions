@@ -267,6 +267,20 @@
 100. Same Tree (Easy) | [Question](https://leetcode.com/problems/same-tree/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/100/same-tree)
 </details>
 <details>
+  <summary>Python 3 | 101 - 110</summary> 
+  
+101. Symmetric Tree (Easy) | [Question](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/tree/main/leetcode_solutions/101)
+102. () | [Question]() | [Solution]()
+103. () | [Question]() | [Solution]()
+104. () | [Question]() | [Solution]()
+105. () | [Question]() | [Solution]()
+106. () | [Question]() | [Solution]()
+107. () | [Question]() | [Solution]()
+108. () | [Question]() | [Solution]()
+109. () | [Question]() | [Solution]()
+110. () | [Question]() | [Solution]()
+</details>
+<details>
   <summary>Python 3 | 1451 - 1460</summary> 
   
 1457. Merge Two Sorted Lists (Easy) | [Question](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/thirty/merge-two-sorted-lists)
