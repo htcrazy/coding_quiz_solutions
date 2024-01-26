@@ -256,6 +256,15 @@
   <summary>Python 3 | 91 - 100</summary> 
   
 91. () | [Question]() | [Solution]()
+92. () | [Question]() | [Solution]()
+93. () | [Question]() | [Solution]()
+94. Binary Tree Inorder Traversal (Easy) | [Question](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/100/binary-tree-inorder-traversal)
+95. () | [Question]() | [Solution]()
+96. () | [Question]() | [Solution]()
+97. () | [Question]() | [Solution]()
+98. () | [Question]() | [Solution]()
+99. () | [Question]() | [Solution]()
+100. Same Tree (Easy) | [Question](https://leetcode.com/problems/same-tree/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/100/same-tree)
 </details>
 <details>
   <summary>Python 3 | 1451 - 1460</summary> 
