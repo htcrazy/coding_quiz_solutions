@@ -1,1 +1,16 @@
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        memo = {}
 
+        def possible_path(remaining_steps: int):
+            if remaining_steps in memo:
+                return memo[remaining_steps]
+            if remaining_steps <= 1:
+                return 1
+            if remaining_steps > 0:
+                memo[remaining_steps-1] = possible_path(remaining_steps-1)
+                memo[remaining_steps-2] = possible_path(remaining_steps-2)
+                return memo[remaining_steps-1] + memo[remaining_steps-2]
+            return 0
+
+        return possible_path(n)
