@@ -214,9 +214,24 @@
 55. Jump Game (Medium) | [Question](https://leetcode.com/problems/jump-game/description/) | [Solution]
 56. Merge Intervals (Medium) | [Question](https://leetcode.com/problems/merge-intervals/description/) | [Solution]
 57. Insert Interval (Medium) | [Question](https://leetcode.com/problems/insert-interval/description/) | [Solution]
-58. Length of Last Word (Easy) | [Question](https://leetcode.com/problems/length-of-last-word/description/) | [Solution]
+58. Length of Last Word (Easy) | [Question](https://leetcode.com/problems/length-of-last-word/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/sixty/length-of-last-word)
 59. Spiral Matrix II (Medium) | [Question](https://leetcode.com/problems/spiral-matrix-ii/description/) | [Solution]
 60. Permutation Sequence (Hard) | [Question](https://leetcode.com/problems/permutation-sequence/description/) | [Solution]
+</details>
+<details>
+  <summary>Python 3 | 61 - 70</summary> 
+  
+61. () | [Question]() | [Solution]()
+62. () | [Question]() | [Solution]()
+63. () | [Question]() | [Solution]()
+64. () | [Question]() | [Solution]()
+65. () | [Question]() | [Solution]()
+66. Plus One (Easy) | [Question](https://leetcode.com/problems/plus-one/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/seventy/plus-one)
+67. Add Binary (Easy) | [Question](https://leetcode.com/problems/add-binary/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/seventy/add-binary)
+68. () | [Question]() | [Solution]()
+69. Sqrt(x) (Easy) | [Question](https://leetcode.com/problems/sqrtx/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/seventy/sqrtx)
+
+70. Climbing Stairs (Easy) | [Question](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/seventy/climbing-stairs)
 </details>
 <details>
   <summary>Python 3 | 1451 - 1460</summary> 
