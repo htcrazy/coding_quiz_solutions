@@ -269,16 +269,16 @@
 <details>
   <summary>Python 3 | 101 - 110</summary> 
   
-101. Symmetric Tree (Easy) | [Question](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/tree/main/leetcode_solutions/101)
+101. Symmetric Tree (Easy) | [Question](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/101/symmetric-tree)
 102. () | [Question]() | [Solution]()
 103. () | [Question]() | [Solution]()
-104. () | [Question]() | [Solution]()
+104. Maximum Depth of Binary Tree (Easy) | [Question](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/101/maximum-depth-of-binary-tree)
 105. () | [Question]() | [Solution]()
 106. () | [Question]() | [Solution]()
 107. () | [Question]() | [Solution]()
-108. () | [Question]() | [Solution]()
+108. Convert Sorted Array to Binary Search Tree (Easy) | [Question](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/101/convert-sorted-array-to-binary-search-tree)
 109. () | [Question]() | [Solution]()
-110. () | [Question]() | [Solution]()
+110. Balanced Binary Tree (Easy) | [Question](https://leetcode.com/problems/balanced-binary-tree/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/101/balanaced-binary-tree)
 </details>
 <details>
   <summary>Python 3 | 1451 - 1460</summary> 
