@@ -6,21 +6,13 @@
 #         self.right = right
 class Solution:
     def isBalanced(self, root: TreeNode) -> bool:
-        if not root or (not root.left and not root.right):
-            return True
-        if not root.left:
-            return not root.right.left and not root.right.right
-        if not root.right:
-            return not root.left.left and not root.left.right
-        
-        def depth(node: TreeNode, num: int):
-            if not node.left and not node.right:
-                return num
-            if not node.left:
-                return depth(node.right, num+1)
-            if not node.right:
-                return depth(node.left, num +1)
-            return max(depth(node.left, num+1), depth(node.right, num+1))
+        def count(node: TreeNode) -> (bool, int):
+            if not node:
+                return (True, 0)
+            left = count(node.left)
+            right = count(node.right)
+            if abs(left[1] - right[1]) > 1:
+                return (False, 69)
+            return (left[0] and right[0], 1 + max(left[1], right[1]))
 
-        return (self.isBalanced(root.left) and self.isBalanced(root.right) 
-                and abs(depth(root.left, 1) - depth(root.right, 1)) <= 1)
+        return count(root)[0]
