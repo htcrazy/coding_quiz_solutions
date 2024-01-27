@@ -295,7 +295,7 @@
 120. () | [Question]() | [Solution]()
 </details>
 <details>
-  <summary>Python 3 | 123456789</summary> 
+  <summary>Python 3 | -</summary> 
   
 69. () | [Question]() | [Solution]()
 </details>
