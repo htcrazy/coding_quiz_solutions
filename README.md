@@ -269,16 +269,35 @@
 <details>
   <summary>Python 3 | 101 - 110</summary> 
   
-101. Symmetric Tree (Easy) | [Question](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/101/symmetric-tree)
+101. Symmetric Tree (Easy) | [Question](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/110/symmetric-tree)
 102. () | [Question]() | [Solution]()
 103. () | [Question]() | [Solution]()
-104. Maximum Depth of Binary Tree (Easy) | [Question](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/101/maximum-depth-of-binary-tree)
+104. Maximum Depth of Binary Tree (Easy) | [Question](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/110/maximum-depth-of-binary-tree)
 105. () | [Question]() | [Solution]()
 106. () | [Question]() | [Solution]()
 107. () | [Question]() | [Solution]()
-108. Convert Sorted Array to Binary Search Tree (Easy) | [Question](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/101/convert-sorted-array-to-binary-search-tree)
+108. Convert Sorted Array to Binary Search Tree (Easy) | [Question](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/110/convert-sorted-array-to-binary-search-tree)
 109. () | [Question]() | [Solution]()
-110. Balanced Binary Tree (Easy) | [Question](https://leetcode.com/problems/balanced-binary-tree/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/101/balanaced-binary-tree)
+110. Balanced Binary Tree (Easy) | [Question](https://leetcode.com/problems/balanced-binary-tree/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/110/balanaced-binary-tree)
+</details>
+<details>
+  <summary>Python 3 | 111 - 120</summary> 
+  
+111. Minimum Depth of a Binary Tree (Easy) | [Question](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/120/minimum-depth-of-binary-tree)
+112. Path Sum (Easy) | [Question](https://leetcode.com/problems/path-sum/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/120/path-sum)
+113. () | [Question]() | [Solution]()
+114. () | [Question]() | [Solution]()
+115. () | [Question]() | [Solution]()
+116. () | [Question]() | [Solution]()
+117. () | [Question]() | [Solution]()
+118. Pascal's Triangle (Easy) | [Question](https://leetcode.com/problems/pascals-triangle/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/120/pascals-triangle)
+119. Pascal's Triangle II (Easy) | [Question](https://leetcode.com/problems/pascals-triangle-ii/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/120/pascals-triangle-ii)
+120. () | [Question]() | [Solution]()
+</details>
+<details>
+  <summary>Python 3 | 123456789</summary> 
+  
+69. () | [Question]() | [Solution]()
 </details>
 <details>
   <summary>Python 3 | 1451 - 1460</summary> 
