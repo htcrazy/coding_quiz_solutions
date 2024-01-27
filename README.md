@@ -295,6 +295,20 @@
 120. () | [Question]() | [Solution]()
 </details>
 <details>
+  <summary>Python 3 | 121 - 130</summary> 
+  
+121. Best Time to Buy and Sell Stock (Easy) | [Question](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/130/best-time-to-buy-and-sell-stock)
+122. () | [Question]() | [Solution]()
+123. () | [Question]() | [Solution]()
+124. () | [Question]() | [Solution]()
+125. Valid Palindrome (Easy) | [Question](https://leetcode.com/problems/valid-palindrome/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/130/valid-palindrome)
+126. () | [Question]() | [Solution]()
+127. () | [Question]() | [Solution]()
+128. () | [Question]() | [Solution]()
+129. () | [Question]() | [Solution]()
+130. () | [Question]() | [Solution]()
+</details>
+<details>
   <summary>Python 3 | -</summary> 
   
 69. () | [Question]() | [Solution]()
