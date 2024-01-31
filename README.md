@@ -309,6 +309,34 @@
 130. () | [Question]() | [Solution]()
 </details>
 <details>
+  <summary>Python 3 | 131 - 140</summary> 
+  
+131. () | [Question]() | [Solution]()
+132. () | [Question]() | [Solution]()
+133. () | [Question]() | [Solution]()
+134. () | [Question]() | [Solution]()
+135. () | [Question]() | [Solution]()
+136. Single Number (Easy) | [Question](https://leetcode.com/problems/single-number/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/140/single-number)
+137. () | [Question]() | [Solution]()
+138. () | [Question]() | [Solution]()
+139. () | [Question]() | [Solution]()
+140. () | [Question]() | [Solution]()
+</details>
+<details>
+  <summary>Python 3 | 141 - 150</summary> 
+  
+141. Linked List Cycle (Easy) | [Question](https://leetcode.com/problems/linked-list-cycle/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/150/linked-list-cycle)
+142. () | [Question]() | [Solution]()
+143. () | [Question]() | [Solution]()
+144. Binary Tree Preorder Traversal (Easy) | [Question](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/150/binary-tree-preorder-traversal)
+145. Binary Tree Postorder Traversal (Easy) | [Question](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/150/binary-tree-postorder-traversal)
+146. () | [Question]() | [Solution]()
+147. () | [Question]() | [Solution]()
+148. () | [Question]() | [Solution]()
+149. () | [Question]() | [Solution]()
+150. () | [Question]() | [Solution]()
+</details>
+<details>
   <summary>Python 3 | -</summary> 
   
 69. () | [Question]() | [Solution]()
