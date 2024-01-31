@@ -1,20 +1,17 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        smol = s.lower()
 
         a, b = 0, len(s)-1
         while a < b:
-            a_check = smol[a].isdigit() or smol[a].isalpha()
-            if not a_check:
+            if not s[a].isalnum():
                 a += 1
                 continue
 
-            b_check = smol[b].isdigit() or smol[b].isalpha()
-            if not b_check:
+            if not s[b].isalnum():
                 b -= 1
                 continue
 
-            if smol[a] != smol[b]:
+            if s[a].lower() != s[b].lower():
                 return False
 
             a += 1
