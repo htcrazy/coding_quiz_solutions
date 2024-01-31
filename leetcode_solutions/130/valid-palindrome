@@ -1,1 +1,23 @@
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        smol = s.lower()
 
+        a, b = 0, len(s)-1
+        while a < b:
+            a_check = smol[a].isdigit() or smol[a].isalpha()
+            if not a_check:
+                a += 1
+                continue
+
+            b_check = smol[b].isdigit() or smol[b].isalpha()
+            if not b_check:
+                b -= 1
+                continue
+
+            if smol[a] != smol[b]:
+                return False
+
+            a += 1
+            b -= 1
+            
+        return True
