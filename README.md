@@ -172,7 +172,7 @@
 26. Remove Dupilcates from Sorted Array (Easy) | [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/thirty/remove-duplicates-from-sorted-array)
 27. Remove Element (Easy) | [Question](https://leetcode.com/problems/remove-element/description/) | [Solution]
 28. Find the Index of the First Occurence in a String (Easy) | [Question](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/thirty/find-the-index-of-the-first-occurrence-in-a-string)
-29. Divide Two Integers (Medium) | [Question](https://leetcode.com/problems/divide-two-integers/description/) | [Solution]
+29. Divide Two Integers (Medium) | [Question](https://leetcode.com/problems/divide-two-integers/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/thirty/divide-two-integers)
 30. Substring with Concatenation of All Words (Hard) | [Question](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [Solution]
 
 </details>
