@@ -167,7 +167,7 @@
 21. Merge Two Sorted Lists (Easy) | [Question](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/thirty/merge-two-sorted-lists)
 22. Generate Parentheses (Medium) | [Question](https://leetcode.com/problems/generate-parentheses/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/thirty/generate-parentheses)
 23. Merge k Sorted Lists (Hard) | [Question](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/thirty/merge-k-sorted-lists)
-24. Swap Node in Pairs (Medium) | [Question](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution]
+24. Swap Node in Pairs (Medium) | [Question](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/thirty/swap-nodes-in-pairs)
 25. Reverse Nodes in k-Group (Hard) | [Question](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Solution]
 26. Remove Dupilcates from Sorted Array (Easy) | [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/thirty/remove-duplicates-from-sorted-array)
 27. Remove Element (Easy) | [Question](https://leetcode.com/problems/remove-element/description/) | [Solution]
