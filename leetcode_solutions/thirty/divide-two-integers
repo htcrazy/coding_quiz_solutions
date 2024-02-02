@@ -1,1 +1,24 @@
+class Solution:
+    def divide(self, dividend: int, divisor: int) -> int:
+        is_neg = (dividend>0) ^ (divisor>0)
 
+        big = abs(dividend)
+        smol = abs(divisor)
+
+        ans = 0
+
+        while big >= smol:
+            counter = 1
+            subtracter = smol
+
+            while big >= subtracter:
+                big -= subtracter
+                ans += counter
+
+                subtracter += subtracter
+                counter += counter
+
+        if is_neg:
+            return max(-ans, -2147483648)
+        else:
+            return min(ans, 2147483647)
