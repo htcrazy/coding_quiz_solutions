@@ -1,1 +1,24 @@
+class Solution:
+    def search(self, nums: list[int], tar: int) -> int:
 
+        a = 0
+        c = len(nums) - 1
+    
+        while a <= c:
+
+            b = (a + c)//2
+            if nums[b] == tar: return b
+
+            if nums[a] <= nums[b]:
+                if nums[a] <= tar < nums[b]:
+                    c = b-1
+                else:
+                    a = b+1
+
+            elif nums[b] <= nums[c]:
+                if nums[b] < tar <= nums[c]:
+                    a = b+1
+                else:
+                    c = b-1
+
+        return -1
