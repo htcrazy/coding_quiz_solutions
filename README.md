@@ -130,6 +130,8 @@
 
 </details>
 
+
+
 # LeetCode solutions
 <details>
 <summary>Python 3 | 1 - 10</summary> 
