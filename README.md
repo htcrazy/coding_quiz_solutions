@@ -182,7 +182,7 @@
 31. Next Permutation (Medium) | [Question](https://leetcode.com/problems/next-permutation/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/forty/next-perm)
 32. Longest Valid Parentheses (Hard) | [Question](https://leetcode.com/problems/longest-valid-parentheses/description/) | [Solution]
 33. Search in Rotated Sorted Array (Medium) | [Question](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/forty/search-in-rotated-sorted-array)
-34. Find First and Last Position of Element in Sorted Array (Medium) | [Question](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Solution]
+34. Find First and Last Position of Element in Sorted Array (Medium) | [Question](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/forty/find-first-and-last-position-of-element-in-sorted-array)
 35. Search Insert Position (Easy) | [Question](https://leetcode.com/problems/search-insert-position/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/forty/search-insert-position)
 36. Valid Sudoku (Medium) | [Question](https://leetcode.com/problems/valid-sudoku/description/) | [Solution]
 37. Sudoku Solver (Hard) | [Question](https://leetcode.com/problems/sudoku-solver/description/) | [Solution]
