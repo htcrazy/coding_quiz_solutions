@@ -1,1 +1,43 @@
+class Solution:
+    def searchRange(self, nums: list[int], tar: int) -> list[int]:
+        if not nums or tar not in nums:
+            return [-1, -1]
 
+
+        left, right = 0, len(nums)-1
+
+        while True: # find target and sets it as mid
+            mid = (left + right)//2
+            if nums[mid] == tar:
+                break
+            elif nums[mid] < tar:
+                left = mid + 1
+            elif nums[mid] > tar:
+                right = mid - 1
+
+        # find start
+        if nums[left] != tar:
+            mid_L = mid
+            while nums[left] != tar:
+                midmid_L = (left + mid_L)//2
+                if nums[midmid_L] < tar:
+                    left = midmid_L + 1
+                elif mid_L == midmid_L:
+                    left = mid_L
+                else:
+                    mid_L = midmid_L
+
+        # find end
+        mid_R = mid
+        if nums[right] != tar:
+            mid_R = mid
+            while nums[right] != tar:
+                midmid_R = (mid_R + right)//2
+                if nums[midmid_R] > tar:
+                    right = midmid_R - 1
+                elif mid_R == midmid_R:
+                    right = mid_R
+                else:
+                    mid_R = midmid_R
+
+        return [left, right]
