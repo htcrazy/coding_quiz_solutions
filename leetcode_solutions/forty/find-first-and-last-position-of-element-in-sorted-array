@@ -6,7 +6,8 @@ class Solution:
 
         left, right = 0, len(nums)-1
 
-        while True: # find target and sets it as mid
+        # find target
+        while True:
             mid = (left + right)//2
             if nums[mid] == tar:
                 break
