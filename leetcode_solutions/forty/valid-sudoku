@@ -1,1 +1,40 @@
+class Solution:
+    def isValidSudoku(self, board: list[list[str]]) -> bool:
+        row_check = [[] for _ in range(9)]
+        col_check = [[] for _ in range(9)]
+        box_check = [[] for _ in range(9)]
 
+        for row in range(9):
+            for col in range(9):
+                if board[row][col] == ".":
+                    continue
+
+                #row check
+                if board[row][col] in row_check[row]:
+                    return False
+                row_check[row].append(board[row][col])
+
+                #col check
+                if board[row][col] in col_check[col]:
+                    return False
+                col_check[col].append(board[row][col])
+
+                # box check // intervals 0-2, 3-5, 6-8
+                # find box index 0-8 (left to right, top to bottom)
+                if row <= 2:
+                    ind = 0
+                elif row <=5:
+                    ind = 3
+                else:
+                    ind = 6
+
+                if 2 < col <= 5:
+                    ind += 1
+                elif col >= 6:
+                    ind += 2
+
+                if board[row][col] in box_check[ind]:
+                    return False
+                box_check[ind].append(board[row][col])
+
+        return True
