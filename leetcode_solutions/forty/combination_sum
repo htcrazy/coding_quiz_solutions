@@ -1,0 +1,19 @@
+class Solution:
+    def combinationSum(self, candidates: list[int], target: int) -> list[list[int]]:
+        
+        ans = []
+        
+        def recur_it(nums : list[int], tar : int, current : list = []):
+            for i in range(len(nums)):
+                if tar < nums[i]:
+                    continue
+
+                temp = sorted(current + [nums[i]])
+                if tar-nums[i] == 0:
+                    if temp not in ans:
+                        ans.append(temp)
+                    continue
+                recur_it(nums[i:], tar-nums[i], temp)
+
+        recur_it(candidates, target)
+        return ans
