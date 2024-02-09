@@ -190,7 +190,7 @@
 37. Sudoku Solver (Hard) | [Question](https://leetcode.com/problems/sudoku-solver/description/) | [Solution]
 38. Count and Say (Medium) | [Question](https://leetcode.com/problems/count-and-say/description/) | Garbage premise/description
 39. Combination Sum (Medium) | [Question](https://leetcode.com/problems/combination-sum/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/forty/combination_sum)
-40. Combination Sum II (Medium) | [Question](https://leetcode.com/problems/combination-sum-ii/description/) | [Solution]
+40. Combination Sum II (Medium) | [Question](https://leetcode.com/problems/combination-sum-ii/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/forty/combination-sum-ii)
 </details>
 <details>
   <summary>Python 3 | 41 - 50</summary> 
