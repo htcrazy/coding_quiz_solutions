@@ -1,0 +1,26 @@
+class Solution:
+    def combinationSum2(self, candidates: list[int], target: int) -> list[list[int]]:
+
+        ans = []
+
+        for i in range(len(candidates)):
+            temp_target = target
+            temp = [candidates[i]]
+
+
+        def recur_it(nums : list[int], tar : int, current : list = []):
+            temp_memo = []
+            for i in range(len(nums)):
+                if tar < nums[i] or nums[i] in temp_memo:
+                    continue
+                temp_memo.append(nums[i])
+
+                temp = sorted(current + [nums[i]])
+                if tar-nums[i] == 0:
+                    if temp not in ans:
+                        ans.append(temp)
+                    continue
+                recur_it(nums[i+1:], tar-nums[i], temp)
+
+        recur_it(candidates, target)
+        return ans
