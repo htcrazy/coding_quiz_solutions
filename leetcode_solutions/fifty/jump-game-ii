@@ -1,1 +1,18 @@
+class Solution:
+    def jump(self, nums: list[int]) -> int:
 
+        ans = 0
+
+        start, end, reach = 0, 0, 0
+
+        while True:
+            if end >= len(nums)-1:
+                return ans
+
+
+            for i in range(start, end+1):
+                if nums[i] + i > reach:
+                    reach = nums[i] + i
+            ans += 1
+            start = end + 1
+            end = reach
