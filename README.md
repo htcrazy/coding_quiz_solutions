@@ -339,6 +339,20 @@
 150. () | [Question]() | [Solution]()
 </details>
 <details>
+  <summary>Python 3 | 151 - 160</summary> 
+  
+151. () | [Question]() | [Solution]()
+152. () | [Question]() | [Solution]()
+153. () | [Question]() | [Solution]()
+154. () | [Question]() | [Solution]()
+155. () | [Question]() | [Solution]()
+156. () | [Question]() | [Solution]()
+157. () | [Question]() | [Solution]()
+158. () | [Question]() | [Solution]()
+159. () | [Question]() | [Solution]()
+160. Intersection of Two Linked Lists(Easy) | [Question](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/160/intersection-of-two-linked-lists)
+</details>
+<details>
   <summary>Python 3 | -</summary> 
   
 69. () | [Question]() | [Solution]()
