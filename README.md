@@ -347,10 +347,24 @@
 154. () | [Question]() | [Solution]()
 155. () | [Question]() | [Solution]()
 156. () | [Question]() | [Solution]()
-157. () | [Question]() | [Solution]()
+157. Locked Behind Premium
 158. () | [Question]() | [Solution]()
 159. () | [Question]() | [Solution]()
 160. Intersection of Two Linked Lists(Easy) | [Question](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/160/intersection-of-two-linked-lists)
+</details>
+<details>
+  <summary>Python 3 | 161 - 170</summary> 
+  
+161. () | [Question]() | [Solution]()
+162. () | [Question]() | [Solution]()
+163. Locked Behind Premium
+164. () | [Question]() | [Solution]()
+165. () | [Question]() | [Solution]()
+166. () | [Question]() | [Solution]()
+167. () | [Question]() | [Solution]()
+168. Excel Sheet Column Title (Easy) | [Question](https://leetcode.com/problems/excel-sheet-column-title/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/170/excel-sheet-column-title)
+169. Majority Element (Easy) | [Question](https://leetcode.com/problems/majority-element/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/170/majority-element)
+170. Locked Behind Premium
 </details>
 <details>
   <summary>Python 3 | -</summary> 
