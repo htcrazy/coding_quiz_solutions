@@ -367,6 +367,20 @@
 170. Locked Behind Premium
 </details>
 <details>
+  <summary>Python 3 | 171 - 180</summary> 
+  
+171. Excel Sheet Column Number (Easy) | [Question](https://leetcode.com/problems/excel-sheet-column-number/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/171/excel-sheet-column-number)
+172. () | [Question]() | [Solution]()
+173. () | [Question]() | [Solution]()
+174. () | [Question]() | [Solution]()
+175. () | [Question]() | [Solution]()
+176. () | [Question]() | [Solution]()
+177. () | [Question]() | [Solution]()
+178. () | [Question]() | [Solution]()
+179. () | [Question]() | [Solution]()
+180. () | [Question]() | [Solution]()
+</details>
+<details>
   <summary>Python 3 | -</summary> 
   
 69. () | [Question]() | [Solution]()
