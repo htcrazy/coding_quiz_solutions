@@ -373,7 +373,7 @@
 172. () | [Question]() | [Solution]()
 173. () | [Question]() | [Solution]()
 174. () | [Question]() | [Solution]()
-175. () | [Question]() | [Solution]()
+175. Combine Two Tables (Easy) | [Question](https://leetcode.com/problems/combine-two-tables/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/171/combine-two-tables)
 176. () | [Question]() | [Solution]()
 177. () | [Question]() | [Solution]()
 178. () | [Question]() | [Solution]()
