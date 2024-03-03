@@ -383,6 +383,20 @@
 <details>
   <summary>Python 3 | -</summary> 
   
+181. Employees Earning More Than Their Managers (Easy) | [Question](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/190/employees-earning-more-than-their-managers)
+182. Duplicate Emails (Easy) | [Question](https://leetcode.com/problems/duplicate-emails/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/190/duplicate-emails)
+183. () | [Question]() | [Solution]()
+184. () | [Question]() | [Solution]()
+185. () | [Question]() | [Solution]()
+186. () | [Question]() | [Solution]()
+187. () | [Question]() | [Solution]()
+188. () | [Question]() | [Solution]()
+189. () | [Question]() | [Solution]()
+190. () | [Question]() | [Solution]()
+</details>
+<details>
+  <summary>Python 3 | -</summary> 
+  
 69. () | [Question]() | [Solution]()
 </details>
 <details>
