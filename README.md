@@ -385,8 +385,8 @@
   
 181. Employees Earning More Than Their Managers (Easy) | [Question](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/190/employees-earning-more-than-their-managers)
 182. Duplicate Emails (Easy) | [Question](https://leetcode.com/problems/duplicate-emails/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/190/duplicate-emails)
-183. () | [Question]() | [Solution]()
-184. () | [Question]() | [Solution]()
+183. Customers Who Never Order (Easy) | [Question](https://leetcode.com/problems/customers-who-never-order/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/190/customers-who-never-order)
+184. Reverse Bits (Easy) | [Question](https://leetcode.com/problems/reverse-bits/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/190/reverse-bits)
 185. () | [Question]() | [Solution]()
 186. () | [Question]() | [Solution]()
 187. () | [Question]() | [Solution]()
