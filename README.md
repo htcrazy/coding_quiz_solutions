@@ -397,6 +397,20 @@
 <details>
   <summary>Python 3 | -</summary> 
   
+191. Number of 1 Bits (Easy) | [Question](https://leetcode.com/problems/number-of-1-bits/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/200/number-of-1-bits)
+192. () | [Question]() | [Solution]()
+193. () | [Question]() | [Solution]()
+194. () | [Question]() | [Solution]()
+195. () | [Question]() | [Solution]()
+196. () | [Question]() | [Solution]()
+197. () | [Question]() | [Solution]()
+198. () | [Question]() | [Solution]()
+199. () | [Question]() | [Solution]()
+200. () | [Question]() | [Solution]()
+</details>
+<details>
+  <summary>Python 3 | -</summary> 
+  
 69. () | [Question]() | [Solution]()
 </details>
 <details>
