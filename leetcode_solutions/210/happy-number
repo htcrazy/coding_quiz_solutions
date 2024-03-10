@@ -1,1 +1,15 @@
+class Solution:
+    def isHappy(self, n: int) -> bool:
+        memo = []
 
+        while n != 1:
+            memo.append(n)
+            word = str(n)
+            n = 0
+
+            for char in word:
+                n += int(char) ** 2
+
+            if n in memo: return False
+
+        return True
