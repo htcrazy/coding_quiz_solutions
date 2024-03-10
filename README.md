@@ -402,11 +402,11 @@
 193. Valid Phone Numbers (Easy) | [Question](https://leetcode.com/problems/valid-phone-numbers/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/200/valid-phone-numbers)
 194. () | [Question]() | [Solution]()
 195. () | [Question]() | [Solution]()
-196. () | [Question]() | [Solution]()
+196. Delete Duplicate Emails (Easy) | [Question](https://leetcode.com/problems/delete-duplicate-emails/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/200/delete-duplicate-emails)
 197. () | [Question]() | [Solution]()
 198. () | [Question]() | [Solution]()
 199. () | [Question]() | [Solution]()
-200. () | [Question]() | [Solution]()
+200. Rising Temperature (Easy) | [Question](https://leetcode.com/problems/rising-temperature/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/200/rising-temperature)
 </details>
 <details>
   <summary>Python 3 | -</summary> 
