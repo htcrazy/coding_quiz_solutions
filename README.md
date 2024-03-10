@@ -409,6 +409,20 @@
 200. Rising Temperature (Easy) | [Question](https://leetcode.com/problems/rising-temperature/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/200/rising-temperature)
 </details>
 <details>
+  <summary>Python 3 | 201 - 210</summary> 
+  
+201. () | [Question]() | [Solution]()
+202. Happy Number (Easy) | [Question](https://leetcode.com/problems/happy-number/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/210/happy-number)
+203. () | [Question]() | [Solution]()
+204. () | [Question]() | [Solution]()
+205. () | [Question]() | [Solution]()
+206. () | [Question]() | [Solution]()
+207. () | [Question]() | [Solution]()
+208. () | [Question]() | [Solution]()
+209. () | [Question]() | [Solution]()
+210. () | [Question]() | [Solution]()
+</details>
+<details>
   <summary>Python 3 | -</summary> 
   
 69. () | [Question]() | [Solution]()
