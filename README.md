@@ -399,7 +399,7 @@
   
 191. Number of 1 Bits (Easy) | [Question](https://leetcode.com/problems/number-of-1-bits/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/200/number-of-1-bits)
 192. () | [Question]() | [Solution]()
-193. () | [Question]() | [Solution]()
+193. Valid Phone Numbers (Easy) | [Question](https://leetcode.com/problems/valid-phone-numbers/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/200/valid-phone-numbers)
 194. () | [Question]() | [Solution]()
 195. () | [Question]() | [Solution]()
 196. () | [Question]() | [Solution]()
