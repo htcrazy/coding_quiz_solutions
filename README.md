@@ -381,7 +381,7 @@
 180. () | [Question]() | [Solution]()
 </details>
 <details>
-  <summary>Python 3 | -</summary> 
+  <summary>Python 3 | 181 - 190</summary> 
   
 181. Employees Earning More Than Their Managers (Easy) | [Question](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/190/employees-earning-more-than-their-managers)
 182. Duplicate Emails (Easy) | [Question](https://leetcode.com/problems/duplicate-emails/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/190/duplicate-emails)
@@ -395,7 +395,7 @@
 190. () | [Question]() | [Solution]()
 </details>
 <details>
-  <summary>Python 3 | -</summary> 
+  <summary>Python 3 | 191 - 200</summary> 
   
 191. Number of 1 Bits (Easy) | [Question](https://leetcode.com/problems/number-of-1-bits/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/200/number-of-1-bits)
 192. () | [Question]() | [Solution]()
