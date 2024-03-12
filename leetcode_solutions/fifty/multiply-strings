@@ -1,0 +1,7 @@
+class Solution:
+    def multiply(self, num1: str, num2: str) -> str:
+        ans = 0
+        for i1, digit1 in enumerate(num1[::-1]):
+            for i2, digit2 in enumerate(num2[::-1]):
+                ans += (ord(digit1) - 48) * (10 ** i1) * (ord(digit2) - 48) * (10 ** i2)
+        return str(ans)
