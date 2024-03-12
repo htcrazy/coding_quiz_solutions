@@ -197,7 +197,7 @@
   
 41. First Missing Positie (Hard) | [Question](https://leetcode.com/problems/first-missing-positive/description/) | [Solution]
 42. Trapping Rain Water (Hard) | [Question](https://leetcode.com/problems/trapping-rain-water/description/) | [Solution]
-43. Multiply Strings (Medium) | [Question](https://leetcode.com/problems/multiply-strings/description/) | [Solution] (https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/fifty/multiply-strings)
+43. Multiply Strings (Medium) | [Question](https://leetcode.com/problems/multiply-strings/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/fifty/multiply-strings)
 44. Wildcard Matching (Hard) | [Question](https://leetcode.com/problems/wildcard-matching/description/) | [Solution]
 45. Jump Game II (Medium) | [Question](https://leetcode.com/problems/jump-game-ii/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/fifty/jump-game-ii)
 46. Permutations (Medium) | [Question](https://leetcode.com/problems/permutations/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/fifty/permutations)
