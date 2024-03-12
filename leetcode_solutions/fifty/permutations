@@ -1,1 +1,15 @@
+class Solution:
+    def permute(self, nums: list[int]) -> list[list[int]]:
 
+        def recurIt(nums, tempAns): 
+            if not nums: 
+                ans.append(tempAns) 
+                return 
+            for i in range(len(nums)):
+                tempList = nums[:]
+                tempList.pop(i)
+                recurIt(tempList, tempAns + [nums[i]]) 
+
+        ans = []
+        recurIt(nums, [])
+        return ans
