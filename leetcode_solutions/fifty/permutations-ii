@@ -1,1 +1,14 @@
+class Solution:
+    def permuteUnique(self, nums: list[int]) -> list[list[int]]:
+        def recurIt(nums, tempAns): 
+            if not nums and tempAns not in ans: 
+                ans.append(tempAns) 
+                return 
+            for i in range(len(nums)):
+                tempList = nums[:]
+                tempList.pop(i)
+                recurIt(tempList, tempAns + [nums[i]]) 
 
+        ans = []
+        recurIt(nums, [])
+        return ans
