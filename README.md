@@ -202,7 +202,7 @@
 45. Jump Game II (Medium) | [Question](https://leetcode.com/problems/jump-game-ii/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/fifty/jump-game-ii)
 46. Permutations (Medium) | [Question](https://leetcode.com/problems/permutations/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/fifty/permutations)
 47. Permutations II (Medium) | [Question](https://leetcode.com/problems/permutations-ii/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/fifty/permutations-ii)
-48. Rotate Image (Medium) | [Question](https://leetcode.com/problems/rotate-image/description/) | [Solution]
+48. Rotate Image (Medium) | [Question](https://leetcode.com/problems/rotate-image/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/fifty/rotate-image)
 49. Group Anagrams (Medium) | [Question](https://leetcode.com/problems/group-anagrams/description/) | [Solution]
 50. Pow(x, n) (Medium) | [Question](https://leetcode.com/problems/powx-n/description/) | [Solution]
 </details>
