@@ -1,0 +1,12 @@
+class Solution:
+    def rotate(self, matrix: list[list[int]]) -> None:
+        n = len(matrix) - 1
+
+        for depth in range((n+1)//2):
+            for i in range(0, n - depth * 2):
+                temp = matrix[depth][depth + i]
+
+                matrix[depth][depth + i] = matrix[n - depth - i][depth]
+                matrix[n - depth - i][depth] = matrix[n - depth][n - depth - i]
+                matrix[n - depth][n - depth - i] = matrix[depth + i][n - depth]
+                matrix[depth + i][n - depth] = temp
