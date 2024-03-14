@@ -1,0 +1,13 @@
+class Solution:
+    def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
+            memo, ans = {}, []
+
+            for word in strs:
+                convert = ''.join(sorted(list(word)))
+                if convert in memo:
+                      ans[memo[convert]].append(word)
+                else:
+                     memo[convert] = len(ans)
+                     ans.append([word])
+
+            return ans
