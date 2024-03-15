@@ -1,0 +1,23 @@
+class Solution:
+    def spiralOrder(self, matrix: list[list[int]]) -> list[int]:
+        m, n = len(matrix) - 1, len(matrix[0]) - 1
+        depth, row, col = 0, 0, 0
+        ans = []
+
+
+        for _ in range((m + 1) * (n + 1)):
+            ans.append(matrix[row][col])
+
+            if row == depth and col != n - depth:
+                col += 1
+            elif col == n- depth and row != m - depth:
+                row += 1
+            elif row == m - depth and col != depth:
+                col -= 1
+            elif col == depth and row != depth + 1:
+                row -= 1
+            elif col == depth and row == depth + 1:
+                col += 1
+                depth += 1
+
+        return ans
