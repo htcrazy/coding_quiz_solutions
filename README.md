@@ -213,7 +213,7 @@
 52. N-Queens II (Hard) | [Question](https://leetcode.com/problems/n-queens-ii/description/) | [Solution]
 53. Maximum Subarray (Medium) | [Question](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/sixty/maximum-subarray)
 54. Spiral Matrix (Medium) | [Question](https://leetcode.com/problems/spiral-matrix/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/sixty/spiral-matrix)
-55. Jump Game (Medium) | [Question](https://leetcode.com/problems/jump-game/description/) | [Solution]
+55. Jump Game (Medium) | [Question](https://leetcode.com/problems/jump-game/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/sixty/jump-game)
 56. Merge Intervals (Medium) | [Question](https://leetcode.com/problems/merge-intervals/description/) | [Solution]
 57. Insert Interval (Medium) | [Question](https://leetcode.com/problems/insert-interval/description/) | [Solution]
 58. Length of Last Word (Easy) | [Question](https://leetcode.com/problems/length-of-last-word/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/sixty/length-of-last-word)
