@@ -1,22 +1,12 @@
 class Solution:
     def merge(self, intervals: list[list[int]]) -> list[list[int]]:
-        ans = []
         sortList = sorted(intervals, key = lambda x: x[0])
-        i = 0
-        smol = sortList[i][0]
-        big = sortList[i][1]
+        ans = [[sortList[0][0], sortList[0][1]]]
 
-        while i < len(sortList) - 1:
-            i += 1
-            if sortList[i][0] <= big:
-                if sortList[i][1] > big:
-                    big = sortList[i][1]
-                if sortList[i][0] < smol:
-                    smol = sortList[i][0]
+        for i in range(1, len(intervals)):
+            if ans[-1][1] < sortList[i][0]:
+                ans.append(sortList[i])
             else:
-                ans.append([smol, big])
-                smol = sortList[i][0]
-                big = sortList[i][1]
-
-        ans.append([smol, big])
+                ans[-1][1] = max(ans[-1][1], sortList[i][1])
+        
         return ans
