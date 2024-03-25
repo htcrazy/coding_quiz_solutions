@@ -1,1 +1,21 @@
+class Solution:
+    def generateMatrix(self, n: int) -> list[list[int]]:
+        ans = [[0 for _ in range(n)] for _ in range(n)]
+        row, col, depth = 0, 0, 0
 
+        for i in range(n**2):
+            ans[row][col] = i + 1
+
+            if row == depth and col != n - 1 - depth:
+                col += 1
+            elif col == n - 1 - depth and row != n - 1 - depth:
+                row += 1
+            elif row == n - 1 - depth and col != depth:
+                col -= 1
+            elif col == depth and row > depth + 1:
+                row -= 1
+            else:
+                col += 1
+                depth += 1
+
+        return ans
