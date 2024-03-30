@@ -224,7 +224,7 @@
   <summary>Python 3 | 61 - 70</summary> 
   
 61. Rotate List (Medium) | [Question](https://leetcode.com/problems/rotate-list/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/seventy/rotate-list)
-62. () | [Question]() | [Solution]()
+62. Unique Paths (Medium) | [Question](https://leetcode.com/problems/unique-paths/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/seventy/unique-paths)
 63. () | [Question]() | [Solution]()
 64. () | [Question]() | [Solution]()
 65. () | [Question]() | [Solution]()
