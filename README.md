@@ -225,7 +225,7 @@
   
 61. Rotate List (Medium) | [Question](https://leetcode.com/problems/rotate-list/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/seventy/rotate-list)
 62. Unique Paths (Medium) | [Question](https://leetcode.com/problems/unique-paths/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/seventy/unique-paths)
-63. () | [Question]() | [Solution]()
+63. Unique Paths II (Medium) | [Question](https://leetcode.com/problems/unique-paths-ii/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/seventy/unique-paths-ii)
 64. () | [Question]() | [Solution]()
 65. () | [Question]() | [Solution]()
 66. Plus One (Easy) | [Question](https://leetcode.com/problems/plus-one/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/seventy/plus-one)
