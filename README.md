@@ -238,7 +238,7 @@
 <details>
   <summary>Python 3 | 71 - 80</summary> 
   
-71. () | [Question]() | [Solution]()
+71. Simplify Path (Medium) | [Question](https://leetcode.com/problems/simplify-path/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/eighty/simplify-path)
 </details>
 <details>
   <summary>Python 3 | 81 - 90</summary> 
