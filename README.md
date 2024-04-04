@@ -239,6 +239,15 @@
   <summary>Python 3 | 71 - 80</summary> 
   
 71. Simplify Path (Medium) | [Question](https://leetcode.com/problems/simplify-path/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/eighty/simplify-path)
+72. Edit Distance (Medium) | [Question](https://leetcode.com/problems/edit-distance/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/eighty/edit-distance)
+73. () | [Question]() | [Solution]()
+74. () | [Question]() | [Solution]()
+75. () | [Question]() | [Solution]()
+76. () | [Question]() | [Solution]()
+77. () | [Question]() | [Solution]()
+78. () | [Question]() | [Solution]()
+79. () | [Question]() | [Solution]()
+80. () | [Question]() | [Solution]()
 </details>
 <details>
   <summary>Python 3 | 81 - 90</summary> 
