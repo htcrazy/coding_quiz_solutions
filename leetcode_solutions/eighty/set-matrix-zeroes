@@ -1,1 +1,35 @@
+class Solution:
+    def setZeroes(self, matrix: list[list[int]]) -> None:
+        m, n = len(matrix), len(matrix[0])
 
+        for row in range(m):
+            for col in range(n):
+                if matrix[row][col] == 0:
+                    r = row + 1
+                    while r < m:
+                        if matrix[r][col] != 0:
+                            matrix[r][col] = 'mark'
+                        r += 1
+
+                    r = row - 1
+                    while r >= 0:
+                        if matrix[r][col] != 0:
+                            matrix[r][col] = 'mark'
+                        r -= 1
+
+                    c = col + 1
+                    while c < n:
+                        if matrix[row][c] != 0:
+                            matrix[row][c] = 'mark'
+                        c += 1
+
+                    c = col - 1
+                    while c >= 0:
+                        if matrix[row][c] != 0:
+                            matrix[row][c] = 'mark'
+                        c -= 1
+
+        for row in range(m):
+            for col in range(n):
+                if matrix[row][col] == 'mark':
+                    matrix[row][col] = 0
