@@ -240,7 +240,7 @@
   
 71. Simplify Path (Medium) | [Question](https://leetcode.com/problems/simplify-path/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/eighty/simplify-path)
 72. Edit Distance (Medium) | [Question](https://leetcode.com/problems/edit-distance/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/eighty/edit-distance)
-73. () | [Question]() | [Solution]()
+73. Set Matrix Zeroes (Medium) | [Question](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/eighty/set-matrix-zeroes)
 74. () | [Question]() | [Solution]()
 75. () | [Question]() | [Solution]()
 76. () | [Question]() | [Solution]()
