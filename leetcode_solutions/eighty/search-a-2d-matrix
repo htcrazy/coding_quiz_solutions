@@ -1,1 +1,31 @@
+class Solution:
+    def searchMatrix(self, matrix: list[list[int]], target: int) -> bool:
+        start, end = 0, len(matrix)
+        rowPointer = end//2
 
+        while True:
+            if start > end or start == len(matrix):
+                return False
+            if target < matrix[rowPointer][0]:
+                end = rowPointer - 1
+                rowPointer = (start + end) // 2
+            elif matrix[rowPointer][0] <= target <= matrix[rowPointer][-1]:
+                break
+            else:
+                start = rowPointer + 1
+                rowPointer = (start + end) // 2
+
+        start, end = 0, len(matrix[0])
+        colPointer = end//2
+
+        while True:
+            if start > end:
+                return False
+            elif target < matrix[rowPointer][colPointer]:
+                end = colPointer - 1
+                colPointer = (start + end) // 2
+            elif matrix[rowPointer][colPointer] == target:
+                return True
+            else:
+                start = colPointer + 1
+                colPointer = (start + end) // 2
