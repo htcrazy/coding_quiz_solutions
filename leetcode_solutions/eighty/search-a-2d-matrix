@@ -1,3 +1,4 @@
+# linear is faster but question wants binary
 class Solution:
     def searchMatrix(self, matrix: list[list[int]], target: int) -> bool:
         start, end = 0, len(matrix)
