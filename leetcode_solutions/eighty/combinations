@@ -1,1 +1,16 @@
+class Solution:
+    def combine(self, n: int, k: int) -> list[list[int]]:
+        ans = []
 
+        def recur(start, temp):
+            if len(temp) == k:
+                ans.append(temp[:])
+                return
+            for i in range(start, n+1):
+                temp.append(i)
+                recur(i+1, temp)
+                temp.pop()
+        
+        recur(1, [])
+
+        return ans
