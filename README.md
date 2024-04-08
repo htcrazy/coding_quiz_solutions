@@ -244,7 +244,7 @@
 74. Search a 2D Matrix (Medium) | [Question](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/eighty/search-a-2d-matrix)
 75. Sort Colors (Medium) | [Question](https://leetcode.com/problems/sort-colors/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/eighty/sort-colors)
 76. () | [Question]() | [Solution]()
-77. () | [Question]() | [Solution]()
+77. Combinations (Medium) | [Question](https://leetcode.com/problems/combinations/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/eighty/combinations)
 78. () | [Question]() | [Solution]()
 79. () | [Question]() | [Solution]()
 80. () | [Question]() | [Solution]()
