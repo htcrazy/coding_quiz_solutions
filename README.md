@@ -245,7 +245,7 @@
 75. Sort Colors (Medium) | [Question](https://leetcode.com/problems/sort-colors/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/eighty/sort-colors)
 76. () | [Question]() | [Solution]()
 77. Combinations (Medium) | [Question](https://leetcode.com/problems/combinations/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/eighty/combinations)
-78. () | [Question]() | [Solution]()
+78. Subsets (Medium) | [Question](https://leetcode.com/problems/subsets/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/eighty/subsets)
 79. () | [Question]() | [Solution]()
 80. () | [Question]() | [Solution]()
 </details>
