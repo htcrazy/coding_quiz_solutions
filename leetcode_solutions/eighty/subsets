@@ -1,0 +1,18 @@
+class Solution:
+    def subsets(self, nums: list[int]) -> list[list[int]]:
+        n, length = len(nums), 0
+        ans = []
+
+        def recur(start, temp, nums, length):
+            if len(temp) == length:
+                ans.append(temp[:])
+                return
+            for i in range(start, n):
+                temp.append(nums[i])
+                recur(i+1, temp, nums, length)
+                temp.pop()
+        
+        for length in range(n + 1):
+            recur(0, [], nums, length)
+
+        return ans
