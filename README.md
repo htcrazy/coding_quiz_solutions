@@ -246,7 +246,7 @@
 76. () | [Question]() | [Solution]()
 77. Combinations (Medium) | [Question](https://leetcode.com/problems/combinations/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/eighty/combinations)
 78. Subsets (Medium) | [Question](https://leetcode.com/problems/subsets/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/eighty/subsets)
-79. () | [Question]() | [Solution]()
+79. Word Search (Medium) | [Question](https://leetcode.com/problems/word-search/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/eighty/word-search)
 80. () | [Question]() | [Solution]()
 </details>
 <details>
