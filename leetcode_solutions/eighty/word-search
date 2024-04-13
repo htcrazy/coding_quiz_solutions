@@ -1,1 +1,26 @@
+class Solution:
+    def exist(self, board: list[list[str]], word: str) -> bool:
+        m, n, w = len(board), len(board[0]), len(word)
 
+        def recur(row, col, history, wordIndex):
+            if wordIndex == w - 1 and board[row][col] == word[wordIndex]:
+                return True
+            elif board[row][col] != word[wordIndex]:
+                return False
+            
+            grouped = []
+            if row > 0 and (row - 1, col) not in history:
+                grouped.append(recur(row - 1, col, history + [(row, col)], wordIndex + 1))
+            if row < m - 1 and (row + 1, col) not in history:
+                grouped.append(recur(row + 1, col, history + [(row, col)], wordIndex + 1))
+            if col > 0 and (row, col - 1) not in history:
+                grouped.append(recur(row, col - 1, history + [(row, col)], wordIndex + 1))
+            if col < n - 1 and (row, col + 1) not in history:
+                grouped.append(recur(row, col + 1, history + [(row, col)], wordIndex + 1))
+            return any(grouped)
+
+        for i in range(m):
+            for k in range(n):
+                if recur(i, k, [], 0) == True:
+                    return True
+        return False
