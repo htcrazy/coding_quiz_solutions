@@ -1,1 +1,15 @@
+class Solution:
+    def removeDuplicates(self, nums: list[int]) -> int:
+        writeIndex, copyTracker = 0, {'currNum' : nums[0], 'count' : 0}
 
+        for i in range(len(nums)):
+            if nums[i] == copyTracker['currNum'] and copyTracker['count'] < 2:
+                nums[writeIndex] = nums[i]
+                copyTracker['count'] += 1
+                writeIndex += 1
+            elif nums[i] != copyTracker['currNum']:
+                nums[writeIndex] = copyTracker['currNum'] = nums[i]
+                copyTracker['count'] = 1
+                writeIndex += 1
+
+        return writeIndex
