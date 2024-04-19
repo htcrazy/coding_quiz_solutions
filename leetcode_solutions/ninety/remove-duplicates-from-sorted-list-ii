@@ -1,1 +1,23 @@
+class Solution:
+    def deleteDuplicates(self, head: ListNode) -> ListNode:
+        ans = ListNode(69)
+        ansPointer = ans
+        if head == None:
+            return None
 
+        previous, isCopy = head.val, False
+        while head.next != None:
+            if head.next.val != previous and not isCopy:
+                ansPointer.next = ListNode(previous)
+                ansPointer = ansPointer.next
+                previous = head.next.val
+            elif head.next.val != previous:
+                previous = head.next.val
+                isCopy = False
+            else:
+                isCopy = True
+            head = head.next
+
+        if not isCopy:
+            ansPointer.next = ListNode(previous)
+        return ans.next
