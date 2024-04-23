@@ -257,7 +257,7 @@
 83. Remove Duplicates from Sorted List (Easy) | [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ninety/remove-duplicates-from-sorted-list)
 84. () | [Question]() | [Solution]()
 85. () | [Question]() | [Solution]()
-86. () | [Question]() | [Solution]()
+86. Partition List (Medium) | [Question](https://leetcode.com/problems/partition-list/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ninety/partition-list)
 87. () | [Question]() | [Solution]()
 88. Merge Sorted Array (Easy) | [Question](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ninety/merge-sorted-array)
 89. () | [Question]() | [Solution]()
