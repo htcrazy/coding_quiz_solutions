@@ -1,1 +1,12 @@
+class Solution:
+    def subsetsWithDup(self, nums: list[int]) -> list[list[int]]:
+        ans = []
 
+        def recur(temp_ans, smol_nums):
+            if temp_ans not in ans: ans.append(temp_ans)
+
+            for i in range(len(smol_nums)):
+                recur(temp_ans + [smol_nums[i]], smol_nums[i+1:])
+
+        recur([], sorted(nums))
+        return ans
