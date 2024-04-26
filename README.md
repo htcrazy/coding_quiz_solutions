@@ -260,7 +260,7 @@
 86. Partition List (Medium) | [Question](https://leetcode.com/problems/partition-list/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ninety/partition-list)
 87. () | [Question]() | [Solution]()
 88. Merge Sorted Array (Easy) | [Question](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ninety/merge-sorted-array)
-89. () | [Question]() | [Solution]()
+89. Gray Code (Medium) | [Question](https://leetcode.com/problems/gray-code/description/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/ninety/gray-code)
 90. () | [Question]() | [Solution]()
 </details>
 <details>
