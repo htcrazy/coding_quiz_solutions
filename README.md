@@ -422,7 +422,7 @@
   
 201. () | [Question]() | [Solution]()
 202. Happy Number (Easy) | [Question](https://leetcode.com/problems/happy-number/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/210/happy-number)
-203. () | [Question]() | [Solution]()
+203. Remove Linked List Elements (Easy) | [Question](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution](https://github.com/htcrazy/coding_quiz_solutions/blob/main/leetcode_solutions/210/removed-linked-list-elements)
 204. () | [Question]() | [Solution]()
 205. () | [Question]() | [Solution]()
 206. () | [Question]() | [Solution]()
