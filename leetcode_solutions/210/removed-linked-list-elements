@@ -1,1 +1,12 @@
+class Solution:
+    def removeElements(self, head: ListNode, val: int) -> ListNode:
+        ans = pointer = ListNode(69)
+        runner = head
 
+        while runner:
+            if runner.val != val:
+                pointer.next = ListNode(runner.val)
+                pointer = pointer.next
+            runner = runner.next
+
+        return ans.next
